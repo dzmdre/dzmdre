@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://cms-assets.tutsplus.com/cdn-cgi/image/width=1700/uploads/users/2660/posts/32785/image-upload/creative_junkies_logo_B3677MS.jpg" align="center" width="100%" height="45%" style="width: 100%, height:45%" />
-</div>  
-  
 ### Hi there 👋
 ### <div align="center">I'm Dmitry, a full-time full-stack developer 👨‍💻</div>  
 - 🔭&nbsp;I’m currently working on variety of projects mostly in Java stack :wink:
@@ -119,6 +115,8 @@ I am a Full Stack Developer with 9+ years of experience in developing enterprise
 </div>  
 <br/>  
 <!--
+
+<div align="center"> <img src="https://cms-assets.tutsplus.com/cdn-cgi/image/width=1700/uploads/users/2660/posts/32785/image-upload/creative_junkies_logo_B3677MS.jpg" align="center" style="width: 100%" /></div> 
  ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dzmdre&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <br/> 
