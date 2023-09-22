@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cms-assets.tutsplus.com/cdn-cgi/image/width=1700/uploads/users/2660/posts/32785/image-upload/creative_junkies_logo_B3677MS.jpg" align="center" style="width: 100%, height:70%" />
+<img src="https://cms-assets.tutsplus.com/cdn-cgi/image/width=1700/uploads/users/2660/posts/32785/image-upload/creative_junkies_logo_B3677MS.jpg" align="center" width="100%" height="45%" style="width: 100%, height:45%" />
 </div>  
   
 ### Hi there 👋
