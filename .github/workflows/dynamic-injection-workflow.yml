@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v1
         with:
-          node-version: 14.6.0
+          node-version: 16.16.0
       - run: yarn
       - run: node .
       - name: Add to git repo
