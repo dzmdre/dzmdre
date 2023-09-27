@@ -1,0 +1,289 @@
+{
+  "basics": {
+    "name": "Dzmitry Drepin",
+    "label": "Development Team Lead (Java)",
+    "image": "https://ugc.production.linktr.ee/b34af0e5-4412-4ede-a9c1-bf0e0864d37d_rkGC0wy4-400x400.jpeg?io=true&size=avatar-v1",
+    "email": "dmitriy.drepin@gmail.com",
+    "phone": "+48 510 275 998",
+    "url": "https://linktr.ee/drepin",
+    "summary": "Skilled Java software engineer analyst with experience in agile software development. I have worked on various projects in different  fields from entertainment to insurance. Through my career I have been always focused on product from business as well as technical perspective making sure that development is always adding value to the final customer. I’m analytic, highly organized person, team player, able to work independently as well as in team environment and success with meeting deadlines under pressure. I’m selfmotivated,  flexible mind person with ideas and enthusiasm. Agile methodologies believer. For every moment ready to learn new tools, methodologies and techniques. I am always customer focused, interested in learning new businesses and technologies.",
+    "location": {
+      "address": "ul. Broniewskiego 22/115",
+      "postalCode": "01771",
+      "city": "Warsaw",
+      "countryCode": "PL",
+      "region": "Warsaw"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "drepindmitry",
+        "url": "https://twitter.com/drepindmitry"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Dmitry Drepin",
+        "url": "https://linkedin.com/in/dmitry-drepin-77107336"
+      },
+      {
+        "network": "GitHub",
+        "username": "dzmdre",
+        "url": "https://github.com/dzmdre"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Helmes AS",
+      "position": "Development Team Lead",
+      "url": "https://helmes.ee",
+      "startDate": "2017-08-01",
+      "summary": "• Recruiting, tracking project progress against planned schedule\n• Setting up the mission for the team, ensuring team motivation, evaluation.\nResponsible for deciding how to approach tasks and develop a plan to\naccomplish them.\n• Possible risks and their mitigation with stakeholders\n• Organising meetings for any sort of clarification\n• Discussing requirements with business users, formalising, analyse, review\nand clarification them.\n• Doing solution research and design. Creating PoCs for stakeholders\nreview.\n• Discussing & sorting issues as incidents, defects and clarifications.\n• Final code review. Incorporating best development practices into the\nprocess. Coaching newcomers\n• Evaluate team progress & prepare weekly team report\n• Preparing demo’s. Actively support the build and deployment process;\n• Developing solution with WS integration, micro-services, messaging,\nworkflow, data and UI customisation, data migration and concurrent data\nprocessing",
+      "highlights": [
+        "Recruiting",
+        "Preparing demos",
+        "WS integration",
+        "MicroServices",
+        "messaging",
+        "Teams assesment",
+        "Requirements clarification"
+      ]
+    },
+    {
+      "name": "Helmes AS",
+      "position": "Lead Fullstack Software Engineer",
+      "url": "https://helmes.ee",
+      "startDate": "2017-05-01",
+      "summary": "• Conducting TDDs and recruitment interviews,\n• Managing training plans (Personal Development plans),\n• Organising educational events,\n• Mentoring, prepare & carrying out technical performance reviews and\nwork interviews.\n• Analysis of the area-related training (books, articles, conferences) needs\n• Managing conflicts. Define & increase motivational factors for Helmes AS\ncompany.",
+      "highlights": [
+        "Mentoring",
+        "Education",
+        "Recruitment interviews",
+        "Personal performance reviews"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "PM & Leading course",
+      "level": "Intermediate",
+      "keywords": [
+        "Team building",
+        "Remote management / leading of the distributed team",
+        "Inter-personal communication",
+        "Delegating",
+        "Fire & Hire",
+        "Motivation & demotivation factors",
+        "Management & leading styles according team players types"
+      ]
+    },
+    {
+      "name": "Cloud",
+      "level": "Intermediate",
+      "keywords": [
+        "Azure",
+        "AWS (CloudFront, API Gateway, Lambda, Elastic, DynamoDB, SQS, etc)",
+        "GCP(BigQuery, CloudSQL, Pub/Sub, etc.)",
+        "Alibaba cloud"
+      ]
+    },
+    {
+      "name": "Architecture & Design",
+      "level": "Master",
+      "keywords": [
+        "SOLID",
+        "KISS",
+        "DRY",
+        "Clean Architecture",
+        "OOP",
+        "OOD",
+        "CQRS",
+        "Saga",
+        "2ph commit",
+        "DDD",
+        "GoF patterns",
+        "Distributed architecture",
+        "Enterprise Patterns",
+        "TDD",
+        "Rational Rose",
+        "Enterprise Architect",
+        "Message-driven architectures",
+        "Event driven architecture"
+      ]
+    },
+    {
+      "name": "Frontend",
+      "level": "Intermediate",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Angular",
+        "React",
+        "Redux",
+        "npm",
+        "karma",
+        "grunt",
+        "webpack",
+        "Babel",
+        "CSS3",
+        "SCSS",
+        "minify",
+        "ESLint",
+        "bower"
+      ]
+    },
+    {
+      "name": "Backend",
+      "level": "Master",
+      "keywords": [
+        "Java(JDBC, Collections, Serialization, Memory management)",
+        "J2EE",
+        "JPA  / Hibernate",
+        "Spring 3+ (Core, Mvc, Data, Boot, Cloud, Web, Security)",
+        "PicoContainer ~Spring 1.x",
+        "Guice",
+        "SQL",
+        "PostgresSQL",
+        "Oracle",
+        "MySQL",
+        "MSSQL",
+        "Webservices (Rest/Soap)",
+        "ElasticSearch",
+        "Node.js",
+        "Nosql mongoldb/cassandra/redis(cache)",
+        "Kafka",
+        "Queues (JMS,  Google Pub/Sub)",
+        "Serverless",
+        "XML, XSLT, JSON, YAML",
+        "Swagger",
+        "Go",
+        "Python"
+      ]
+    },
+    {
+      "name": "System & Business analysis",
+      "level": "Intermediate",
+      "keywords": [
+        "Bpmn/camunda",
+        "Functional / non-functional requirements",
+        "Requirements clarification",
+        "Rational Rose",
+        "Enterprise Architect",
+        "User stories",
+        "Vision & scope"
+      ]
+    },
+    {
+      "name": "CI & CD & distributed tracing and monitoring",
+      "level": "Intermediate",
+      "keywords": [
+        "Maven /  Gradle",
+        "Docker Compose",
+        "Docker",
+        "Prometheus",
+        "Grafana",
+        "Zabbix",
+        "Logstash",
+        "Kibana",
+        "Zipkin",
+        "Jenkins",
+        "TeamCity",
+        "SDLC",
+        "Puppet",
+        "Ansible",
+        "Linux",
+        "Tensorflow",
+        "CloudFormation",
+        "Kubernetes(Antos)",
+        "GIT"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Ochotnicy warszawscy",
+      "position": "Volunteer",
+      "url": "https://ochotnicy.waw.pl/",
+      "summary": "Volunteer help with translation (English/Russian/Ukranian) and segregation"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Belarusian State University",
+      "url": "https://bsu.by",
+      "area": "Mathematics & Modelling and System analysis",
+      "studyType": "Master",
+      "startDate": "2009-08-31",
+      "endDate": "2014-08-31"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "More than 80+ certifications, you can  find on my github page",
+      "url": "https://github.com/dzmdre"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    },
+    {
+      "language": "German",
+      "fluency": "Pre-intermediate"
+    },
+    {
+      "language": "Russian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Polish",
+      "fluency": "Working proficiency"
+    },
+    {
+      "language": "Belarussian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Ukranian",
+      "fluency": "Working proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Nature",
+        "Animals",
+        "Fishing"
+      ]
+    },
+    {
+      "name": "Technology",
+      "keywords": [
+        "Electronics",
+        "Programming",
+        "IoT"
+      ]
+    },
+    {
+      "name": "Medicine",
+      "keywords": [
+        "Massage",
+        "Farmacology",
+        "Chemistry"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Olga Ezerskaja",
+      "reference": "Reference…"
+    },
+    {
+      "name": "GDPR",
+      "reference": "I consent to the processing of my personal data for the purposes of the recruitment process in accordance with Regulation (EU) 2016/679 of the European Parliament, UK GDPR Data Protection Act 2018, Swiss Data Protection Act 2020 (DPA) and of the Council of 27 April 2016 on the protection of individuals with regard to the processing of personal data and on the free movement of such data and repealing Directive 95/46 / EC (GDPR)."
+    }
+  ]
+}
