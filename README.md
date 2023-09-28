@@ -244,9 +244,9 @@ Web Development with Kotlin
 
 ### 📣 How about an Office quote before you go?
 
-> Arriving at one point is the starting point to another.
+> I want my friend to miss me as long as I miss him.
 >
-> <p>- John Dewey</p>
+> <p>- Augustine of Hippo</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
