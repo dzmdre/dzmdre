@@ -251,9 +251,9 @@ Web Development with Kotlin
 
 ### 📣 How about an quote before you go?
 
-> From error to error one discovers the entire truth.
+> Let us sacrifice our today so that our children can have a better tomorrow.
 >
-> <p>- Sigmund Freud</p>
+> <p>- A. P. J. Abdul Kalam</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
