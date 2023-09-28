@@ -251,9 +251,9 @@ Web Development with Kotlin
 
 ### 📣 How about an quote before you go?
 
-> You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions.
+> Having nothing, nothing can he lose.
 >
-> <p>- Naguib Mahfouz</p>
+> <p>- William Shakespeare</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
