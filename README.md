@@ -251,9 +251,9 @@ Web Development with Kotlin
 
 ### 📣 How about an quote before you go?
 
-> The journey of a thousand miles begins with one step.
+> Act as if what you do makes a difference. It does.
 >
-> <p>- Laozi</p>
+> <p>- William James</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
