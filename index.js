@@ -14,8 +14,8 @@ async function main() {
     console.log(office_quote);
 
     const readme = readmeTemplate
-        .replace("{office_quote}", office_quote.data.content)
-        .replace("{office_character}", `- ${office_quote.data.author}`)
+        .replace("{office_quote}", office_quote.content)
+        .replace("{office_character}", `- ${office_quote.author}`)
 
     await fs.writeFile("README.md", readme);
 }
