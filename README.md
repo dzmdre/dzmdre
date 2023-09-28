@@ -251,9 +251,9 @@ Web Development with Kotlin
 
 ### 📣 How about an quote before you go?
 
-> Whenever something negative happens to you, there is a deep lesson concealed within it.
+> Choose a job you love, and you will never have to work a day in your life.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Confucius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
