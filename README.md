@@ -251,9 +251,9 @@ Web Development with Kotlin
 
 ### 📣 How about an quote before you go?
 
-> In life, all good things come hard, but wisdom is the hardest to come by.
+> From error to error one discovers the entire truth.
 >
-> <p>- Lucille Ball</p>
+> <p>- Sigmund Freud</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
