@@ -9,7 +9,7 @@
 - 🌱&nbsp; I’m currently learning System design, PM, Spring event-driven microservices, cloud & Machine Learning & Ai
 - 💬&nbsp; Ask me about anything related to Java and AEM stacks and related technologies
 - 😄&nbsp; Pronouns: He/Him
-- 📫&nbsp; How to reach me: <a href="https://linkedin.com/in/dmitry-drepin-77107336">Linkedin</a> or <a href="">Discord</a>
+- 📫&nbsp; How to reach me: <a href="https://linkedin.com/in/dmitry-drepin-77107336">Linkedin</a> or <a href="https://discordapp.com/users/546374141100425228/">Discord</a>
 - ⚡ &nbsp; Fun fact: I :heart: :dog:s and cute animals.
 
 <br/> 
