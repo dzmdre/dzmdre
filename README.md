@@ -251,9 +251,9 @@ Web Development with Kotlin
 
 ### 📣 How about an quote before you go?
 
-> Having nothing, nothing can he lose.
+> In life, all good things come hard, but wisdom is the hardest to come by.
 >
-> <p>- William Shakespeare</p>
+> <p>- Lucille Ball</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
