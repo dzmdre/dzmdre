@@ -251,9 +251,9 @@ Web Development with Kotlin
 
 ### 📣 How about an quote before you go?
 
-> Let us sacrifice our today so that our children can have a better tomorrow.
+> Nothing diminishes anxiety faster than action.
 >
-> <p>- A. P. J. Abdul Kalam</p>
+> <p>- Walter Inglis Anderson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
