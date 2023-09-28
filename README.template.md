@@ -17,13 +17,11 @@
 ### ✨&nbsp; About Me
 I am a Full Stack Developer with 9+ years of experience in developing enterprise applications and open-source software. My auto-generated <a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/dzmdre/dzmdre/main/docs/index.html">CV</a>
 
+<!--
 📊 &nbsp;**This week I spent my time on**
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=dzmdre&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-
-### 📝 Latest Blog Posts
-<br>
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+![General stats](https://github-readme-stats.vercel.app/api?username=dzmdre&show_icons=true&theme=transparent)
+-->
 
 ### My Skill Set
 
@@ -241,6 +239,15 @@ Web Development with Kotlin
 2. <a href="https://www.datacamp.com/statement-of-accomplishment/course/5b3eeb79705257bffbb1133a6a09a1d4fefc28e5">Data Manipulation with pandas - December 2021</a>
 
 </div>
+
+<br>
+
+### 📝 Latest Blog Posts
+<br>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<br>
 
 ### 📣 How about an quote before you go?
 
