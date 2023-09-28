@@ -251,9 +251,9 @@ Web Development with Kotlin
 
 ### 📣 How about an quote before you go?
 
-> Nothing diminishes anxiety faster than action.
+> You really can change the world if you care enough.
 >
-> <p>- Walter Inglis Anderson</p>
+> <p>- Marian Wright Edelman</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
