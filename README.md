@@ -251,9 +251,9 @@ Web Development with Kotlin
 
 ### 📣 How about an quote before you go?
 
-> You really can change the world if you care enough.
+> Whenever something negative happens to you, there is a deep lesson concealed within it.
 >
-> <p>- Marian Wright Edelman</p>
+> <p>- Eckhart Tolle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
