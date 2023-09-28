@@ -7,15 +7,15 @@ async function main() {
         await fs.readFile(path.join(process.cwd(), "./README.template.md"))
     ).toString("utf-8");
 
-    const office_quote = await (
+    const quote = await (
         await fetch("https://api.quotable.io/random")
     ).json();
 
-    console.log(office_quote);
+    console.log(quote);
 
     const readme = readmeTemplate
-        .replace("{office_quote}", office_quote.content)
-        .replace("{office_character}", `- ${office_quote.author}`)
+        .replace("{office_quote}", quote.content)
+        .replace("{office_character}", `- ${quote.author}`)
 
     await fs.writeFile("README.md", readme);
 }
