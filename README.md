@@ -244,9 +244,9 @@ Web Development with Kotlin
 
 ### 📣 How about an Office quote before you go?
 
-> I want my friend to miss me as long as I miss him.
+> Happiness is a perfume you cannot pour on others without getting a few drops on yourself.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
