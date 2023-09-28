@@ -4,7 +4,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://linkedin.com/in/dmitry-drepin-77107336)
 
 ### Hi there 👋
-### <div align="center">I'm Dmitry, a full-time full-stack developer 👨‍💻</div>  
+### <div align="center">I'm Dmitry, a full-time full-stack developer 👨‍💻</div>
 - 🔭&nbsp; I’m currently working on variety of projects mostly in Java stack :wink:
 - 🌱&nbsp; I’m currently learning System design, PM, Spring event-driven microservices, cloud & Machine Learning & Ai
 - 💬&nbsp; Ask me about anything related to Java and AEM stacks and related technologies
@@ -25,11 +25,11 @@ I am a Full Stack Developer with 9+ years of experience in developing enterprise
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-### My Skill Set 
+### My Skill Set
 
 <table><tr><td valign="top" width="33%">
 
-### Frontend  
+### Frontend
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -50,7 +50,7 @@ I am a Full Stack Developer with 9+ years of experience in developing enterprise
 
 </td><td valign="top" width="33%">
 
-### Backend  
+### Backend
 <div align="center">  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
@@ -83,7 +83,7 @@ I am a Full Stack Developer with 9+ years of experience in developing enterprise
 
 </td><td valign="top" width="33%">
 
-### DevOps  
+### DevOps
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
@@ -244,9 +244,9 @@ Web Development with Kotlin
 
 ### 📣 How about an Office quote before you go?
 
-> {office_quote}
+> Arriving at one point is the starting point to another.
 >
-> <p>{office_character}</p>
+> <p>- John Dewey</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
@@ -260,7 +260,7 @@ Check back at the top of the hour for a new quote!
 
 <br>
 
-### Connect with me  
+### Connect with me
 <div align="center">
 <a href="https://github.com/dzmdre" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
