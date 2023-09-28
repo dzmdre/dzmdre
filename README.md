@@ -251,9 +251,9 @@ Web Development with Kotlin
 
 ### 📣 How about an quote before you go?
 
-> Act as if what you do makes a difference. It does.
+> It is one of the blessings of old friends that you can afford to be stupid with them.
 >
-> <p>- William James</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
