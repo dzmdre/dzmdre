@@ -1,0 +1,833 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, user-scalable=no, minimal-ui">
+  <title>Dzmitry Drepin</title>
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+  <style>/* Utils */
+/*----- Colors -----*/
+/*----- Fonts -----*/
+/*----- Dimensions and sizes -----*/
+/* Base */
+@font-face {
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Josefin Sans Light'), local('JosefinSans-Light'), url(https://fonts.gstatic.com/s/josefinsans/v14/Qw3FZQNVED7rKGKxtqIqX5Ecpl5te10k.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Josefin Sans Bold'), local('JosefinSans-Bold'), url(https://fonts.gstatic.com/s/josefinsans/v14/Qw3FZQNVED7rKGKxtqIqX5Ectllte10k.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 300;
+  src: local('Lato Light Italic'), local('Lato-LightItalic'), url(https://fonts.gstatic.com/s/lato/v16/S6u_w4BMUTPHjxsI9w2_Gwfo.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Lato Italic'), local('Lato-Italic'), url(https://fonts.gstatic.com/s/lato/v16/S6u8w4BMUTPHjxsAXC-v.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Lato Bold Italic'), local('Lato-BoldItalic'), url(https://fonts.gstatic.com/s/lato/v16/S6u_w4BMUTPHjxsI5wq_Gwfo.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Lato Light'), local('Lato-Light'), url(https://fonts.gstatic.com/s/lato/v16/S6u9w4BMUTPHh7USSwiPHA.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lato Regular'), local('Lato-Regular'), url(https://fonts.gstatic.com/s/lato/v16/S6uyw4BMUTPHjx4wWw.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Lato Bold'), local('Lato-Bold'), url(https://fonts.gstatic.com/s/lato/v16/S6u9w4BMUTPHh6UVSwiPHA.ttf) format('truetype');
+}
+
+html {
+  background: white;
+}
+
+body {
+  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  background: white;
+  margin: 50px 0 100px;
+  letter-spacing: .3px;
+  color: #39424B;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-transform: none;
+  margin: 0;
+}
+
+h1 {
+  font-family: "Josefin Sans", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  font-size: 40px;
+  letter-spacing: 1px;
+}
+
+h2 {
+  font-family: "Josefin Sans", Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  letter-spacing: .5px;
+}
+
+h3 {
+  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  font-size: 14px;
+  letter-spacing: .4px;
+}
+
+h3.bold {
+  font-weight: 700;
+}
+
+h4 {
+  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  font-size: 12px;
+}
+
+h4.bold {
+  font-weight: 700;
+}
+
+h5 {
+  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  font-size: 11px;
+}
+
+h5.italic {
+  font-style: italic;
+}
+
+h6 {
+  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 10px;
+}
+
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+a:hover {
+  color: #2895F1;
+}
+
+a .fa-external-link {
+  font-size: 10px;
+  vertical-align: text-top;
+}
+
+p,
+li {
+  font-size: 11px;
+}
+
+blockquote {
+  font-size: 11px;
+  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-style: italic;
+  margin: 10px 25px;
+}
+
+em {
+  color: #999;
+}
+
+ul {
+  margin: 10px 0 0;
+  -webkit-padding-start: 25px;
+}
+
+ul li {
+  padding-left: 10px;
+}
+
+ul.minimal {
+  list-style: none;
+  padding: 0;
+}
+
+ul.minimal li {
+  margin-bottom: 3px;
+  padding-left: 0;
+}
+
+ul.two-column {
+  -webkit-column-count: 2;
+  -webkit-column-gap: 28px;
+  column-count: 2;
+  column-gap: 28px;
+}
+
+ul.two-column li {
+  padding-left: 0;
+}
+
+@page {
+  size: A4;
+}
+
+.container {
+  padding-top: 20px;
+}
+
+.keyline {
+  width: 45px;
+  margin: 8px 0 10px;
+  border-top: 1px solid #56817A;
+}
+
+.pull-left {
+  float: left;
+}
+
+.pull-right {
+  float: right;
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.profile-pic {
+  margin-top: -5px;
+  margin-right: 18px;
+}
+
+.profile-pic img {
+  height: 52px;
+  width: 52px;
+  border-radius: 50%;
+  border: 2px solid #56817A;
+}
+
+.summary {
+  margin: 5px 0 5px;
+}
+
+.sublink {
+  font-size: 70%;
+  font-weight: 200;
+  color: dimgray;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
+/* Layouts */
+.page {
+  background: white;
+  width: 612px;
+  min-height: 792px;
+  display: block;
+  margin: 0 auto;
+  border-top: 10px solid #56817A;
+  padding: 36px 22px 30px 34px;
+  box-shadow: 0 1px 10px rgba(0, 0, 0, 0.5);
+}
+
+.page:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.left-column {
+  float: left;
+  width: 160px;
+  margin-right: 20px;
+  word-wrap: break-word;
+}
+
+.right-column {
+  width: auto;
+  overflow: hidden;
+}
+
+.item {
+  margin-bottom: 15px;
+}
+
+.item:last-child {
+  margin-bottom: 0;
+}
+
+@media print {
+  body {
+    margin: 0;
+  }
+
+  .page {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 36px 0 30px;
+    box-shadow: none;
+  }
+
+  .page .resume-header,
+  .page .resume-content {
+    padding: 0 22px 0 34px;
+  }
+
+  .container {
+    page-break-inside: avoid;
+  }
+
+  .work-container .item {
+    page-break-inside: avoid;
+  }
+
+  .fa-external-link {
+    display: none;
+  }
+}
+
+/* Components */
+.info-tag-container {
+  margin-bottom: 5px;
+}
+
+.info-tag-container .fa {
+  font-size: 14px;
+  width: 12px;
+  margin-right: 5px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.info-tag-container .fa.fa-map-marker {
+  font-size: 16px;
+}
+
+.info-tag-container .fa.fa-mobile {
+  font-size: 18px;
+}
+
+.info-tag-container .fa.fa-envelope-o {
+  font-size: 12px;
+}
+
+.info-tag-container .fa.fa-desktop {
+  font-size: 11px;
+}
+
+.info-tag-container .fa.fa-external-link {
+  width: auto;
+  font-size: inherit;
+  vertical-align: text-top;
+}
+
+.info-tag-container .info-text {
+  font-size: 12px;
+  text-transform: none;
+  display: inline-block;
+  vertical-align: middle;
+  width: 139px;
+}
+
+.references-container .fa {
+  font-size: 14px;
+}
+
+.education-container .location {
+  padding-bottom: 6px;
+  font-weight: 400;
+}
+
+.education-container .specialization {
+  text-transform: none;
+  font-style: italic;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.main-skill {
+  font-size: 80%;
+}
+
+.skill {
+  margin: .15em;
+  padding: .15em;
+  background: ghostwhite;
+  border-radius: 5px;
+}
+</style>
+</head>
+
+<body>
+  <main id="resume" class="page">
+    <header class="resume-header clearfix">
+        <div class="profile-header pull-left">
+            <h1>Dzmitry Drepin</h1>
+            <h2>Development Team Lead (Java)</h2>
+        </div>
+        <div class="profile-pic pull-right">
+        </div>
+    </header>
+    <div class="resume-content">
+      <aside class="left-column">
+        <div class="container about-container">
+            <div class="title">
+                <h3>About</h3>
+                <div class="keyline"></div>
+            </div>
+                <div class="info-tag-container">
+                    <i class="fa fa-map-marker"></i>
+                
+                        <h6 class="info-text">ul. Broniewskiego 22/115 Warsaw Warsaw 01771 PL</h6>
+                </div>
+        
+        
+                <div class="info-tag-container">
+                    <i class="fa fa-envelope-o"></i>
+                
+                        <h6 class="info-text">
+                            <a href="mailto:dmitriy.drepin@gmail.com" target="_blank">
+                                dmitriy.drepin@gmail.com
+                            </a>
+                        </h6>
+                </div>
+        
+                <div class="info-tag-container">
+                    <i class="fa fa-mobile"></i>
+                
+                        <h6 class="info-text">
+                            <a href="https://linktr.ee/drepin" target="_blank">
+                                +48 510 275 998
+                            </a>
+                        </h6>
+                </div>
+        
+        
+                                 <div class="info-tag-container">
+                                     <i class="fa fa-twitter"></i>
+                                 
+                                         <h6 class="info-text">
+                                             <a href="https://twitter.com/drepindmitry" target="_blank">
+                                                 drepindmitry
+                                             </a>
+                                         </h6>
+                                 </div>
+                                <div class="info-tag-container">
+                                    <i class="fa fa-linkedin-square"></i>
+                                
+                                        <h6 class="info-text">
+                                            <a href="https://linkedin.com/in/dmitry-drepin-77107336" target="_blank">
+                                                Dmitry Drepin
+                                            </a>
+                                        </h6>
+                                </div>
+                                 <div class="info-tag-container">
+                                     <i class="fa fa-github"></i>
+                                 
+                                         <h6 class="info-text">
+                                             <a href="https://github.com/dzmdre" target="_blank">
+                                                 dzmdre
+                                             </a>
+                                         </h6>
+                                 </div>
+        </section>
+            <div class="skills-container">
+                    <section class="container">
+                            <div class="title">
+                                <h3>PM &amp; Leading course</h3>
+                                <div class="keyline"></div>
+                            </div>                    <h4 class="bold capitalize">Intermediate</h4>
+                            <div class="minimal flex-container">
+                                    <h6 class="main-skill skill">Team building</h6>
+                                    <h6 class="main-skill skill">Remote management / leading of the distributed team</h6>
+                                    <h6 class="main-skill skill">Inter-personal communication</h6>
+                                    <h6 class="main-skill skill">Delegating</h6>
+                                    <h6 class="main-skill skill">Fire &amp; Hire</h6>
+                                    <h6 class="main-skill skill">Motivation &amp; demotivation factors</h6>
+                                    <h6 class="main-skill skill">Management &amp; leading styles according team players types</h6>
+                            </div>
+                    </section>
+                    <section class="container">
+                            <div class="title">
+                                <h3>Cloud</h3>
+                                <div class="keyline"></div>
+                            </div>                    <h4 class="bold capitalize">Intermediate</h4>
+                            <div class="minimal flex-container">
+                                    <h6 class="main-skill skill">Azure</h6>
+                                    <h6 class="main-skill skill">AWS (CloudFront, API Gateway, Lambda, Elastic, DynamoDB, SQS, etc)</h6>
+                                    <h6 class="main-skill skill">GCP(BigQuery, CloudSQL, Pub/Sub, etc.)</h6>
+                                    <h6 class="main-skill skill">Alibaba cloud</h6>
+                            </div>
+                    </section>
+                    <section class="container">
+                            <div class="title">
+                                <h3>Architecture &amp; Design</h3>
+                                <div class="keyline"></div>
+                            </div>                    <h4 class="bold capitalize">Master</h4>
+                            <div class="minimal flex-container">
+                                    <h6 class="main-skill skill">SOLID</h6>
+                                    <h6 class="main-skill skill">KISS</h6>
+                                    <h6 class="main-skill skill">DRY</h6>
+                                    <h6 class="main-skill skill">Clean Architecture</h6>
+                                    <h6 class="main-skill skill">OOP</h6>
+                                    <h6 class="main-skill skill">OOD</h6>
+                                    <h6 class="main-skill skill">CQRS</h6>
+                                    <h6 class="main-skill skill">Saga</h6>
+                                    <h6 class="main-skill skill">2ph commit</h6>
+                                    <h6 class="main-skill skill">DDD</h6>
+                                    <h6 class="main-skill skill">GoF patterns</h6>
+                                    <h6 class="main-skill skill">Distributed architecture</h6>
+                                    <h6 class="main-skill skill">Enterprise Patterns</h6>
+                                    <h6 class="main-skill skill">TDD</h6>
+                                    <h6 class="main-skill skill">Rational Rose</h6>
+                                    <h6 class="main-skill skill">Enterprise Architect</h6>
+                                    <h6 class="main-skill skill">Message-driven architectures</h6>
+                                    <h6 class="main-skill skill">Event driven architecture</h6>
+                            </div>
+                    </section>
+                    <section class="container">
+                            <div class="title">
+                                <h3>Frontend</h3>
+                                <div class="keyline"></div>
+                            </div>                    <h4 class="bold capitalize">Intermediate</h4>
+                            <div class="minimal flex-container">
+                                    <h6 class="main-skill skill">HTML</h6>
+                                    <h6 class="main-skill skill">CSS</h6>
+                                    <h6 class="main-skill skill">JavaScript</h6>
+                                    <h6 class="main-skill skill">Angular</h6>
+                                    <h6 class="main-skill skill">React</h6>
+                                    <h6 class="main-skill skill">Redux</h6>
+                                    <h6 class="main-skill skill">npm</h6>
+                                    <h6 class="main-skill skill">karma</h6>
+                                    <h6 class="main-skill skill">grunt</h6>
+                                    <h6 class="main-skill skill">webpack</h6>
+                                    <h6 class="main-skill skill">Babel</h6>
+                                    <h6 class="main-skill skill">CSS3</h6>
+                                    <h6 class="main-skill skill">SCSS</h6>
+                                    <h6 class="main-skill skill">minify</h6>
+                                    <h6 class="main-skill skill">ESLint</h6>
+                                    <h6 class="main-skill skill">bower</h6>
+                            </div>
+                    </section>
+                    <section class="container">
+                            <div class="title">
+                                <h3>Backend</h3>
+                                <div class="keyline"></div>
+                            </div>                    <h4 class="bold capitalize">Master</h4>
+                            <div class="minimal flex-container">
+                                    <h6 class="main-skill skill">Java(JDBC, Collections, Serialization, Memory management)</h6>
+                                    <h6 class="main-skill skill">J2EE</h6>
+                                    <h6 class="main-skill skill">JPA  / Hibernate</h6>
+                                    <h6 class="main-skill skill">Spring 3+ (Core, Mvc, Data, Boot, Cloud, Web, Security)</h6>
+                                    <h6 class="main-skill skill">PicoContainer ~Spring 1.x</h6>
+                                    <h6 class="main-skill skill">Guice</h6>
+                                    <h6 class="main-skill skill">SQL</h6>
+                                    <h6 class="main-skill skill">PostgresSQL</h6>
+                                    <h6 class="main-skill skill">Oracle</h6>
+                                    <h6 class="main-skill skill">MySQL</h6>
+                                    <h6 class="main-skill skill">MSSQL</h6>
+                                    <h6 class="main-skill skill">Webservices (Rest/Soap)</h6>
+                                    <h6 class="main-skill skill">ElasticSearch</h6>
+                                    <h6 class="main-skill skill">Node.js</h6>
+                                    <h6 class="main-skill skill">Nosql mongoldb/cassandra/redis(cache)</h6>
+                                    <h6 class="main-skill skill">Kafka</h6>
+                                    <h6 class="main-skill skill">Queues (JMS,  Google Pub/Sub)</h6>
+                                    <h6 class="main-skill skill">Serverless</h6>
+                                    <h6 class="main-skill skill">XML, XSLT, JSON, YAML</h6>
+                                    <h6 class="main-skill skill">Swagger</h6>
+                                    <h6 class="main-skill skill">Go</h6>
+                                    <h6 class="main-skill skill">Python</h6>
+                            </div>
+                    </section>
+                    <section class="container">
+                            <div class="title">
+                                <h3>System &amp; Business analysis</h3>
+                                <div class="keyline"></div>
+                            </div>                    <h4 class="bold capitalize">Intermediate</h4>
+                            <div class="minimal flex-container">
+                                    <h6 class="main-skill skill">Bpmn/camunda</h6>
+                                    <h6 class="main-skill skill">Functional / non-functional requirements</h6>
+                                    <h6 class="main-skill skill">Requirements clarification</h6>
+                                    <h6 class="main-skill skill">Rational Rose</h6>
+                                    <h6 class="main-skill skill">Enterprise Architect</h6>
+                                    <h6 class="main-skill skill">User stories</h6>
+                                    <h6 class="main-skill skill">Vision &amp; scope</h6>
+                            </div>
+                    </section>
+                    <section class="container">
+                            <div class="title">
+                                <h3>CI &amp; CD &amp; distributed tracing and monitoring</h3>
+                                <div class="keyline"></div>
+                            </div>                    <h4 class="bold capitalize">Intermediate</h4>
+                            <div class="minimal flex-container">
+                                    <h6 class="main-skill skill">Maven /  Gradle</h6>
+                                    <h6 class="main-skill skill">Docker Compose</h6>
+                                    <h6 class="main-skill skill">Docker</h6>
+                                    <h6 class="main-skill skill">Prometheus</h6>
+                                    <h6 class="main-skill skill">Grafana</h6>
+                                    <h6 class="main-skill skill">Zabbix</h6>
+                                    <h6 class="main-skill skill">Logstash</h6>
+                                    <h6 class="main-skill skill">Kibana</h6>
+                                    <h6 class="main-skill skill">Zipkin</h6>
+                                    <h6 class="main-skill skill">Jenkins</h6>
+                                    <h6 class="main-skill skill">TeamCity</h6>
+                                    <h6 class="main-skill skill">SDLC</h6>
+                                    <h6 class="main-skill skill">Puppet</h6>
+                                    <h6 class="main-skill skill">Ansible</h6>
+                                    <h6 class="main-skill skill">Linux</h6>
+                                    <h6 class="main-skill skill">Tensorflow</h6>
+                                    <h6 class="main-skill skill">CloudFormation</h6>
+                                    <h6 class="main-skill skill">Kubernetes(Antos)</h6>
+                                    <h6 class="main-skill skill">GIT</h6>
+                            </div>
+                    </section>
+            </div>
+            <div class="container languages-container">
+                <div class="title">
+                    <h3>Languages</h3>
+                    <div class="keyline"></div>
+                </div>
+                <ul class="minimal">
+                        <li>
+                            <h6>English <em>(Professional working proficiency)</em></h6>
+                        </li>
+                        <li>
+                            <h6>German <em>(Pre-intermediate)</em></h6>
+                        </li>
+                        <li>
+                            <h6>Russian <em>(Native speaker)</em></h6>
+                        </li>
+                        <li>
+                            <h6>Polish <em>(Working proficiency)</em></h6>
+                        </li>
+                        <li>
+                            <h6>Belarussian <em>(Native speaker)</em></h6>
+                        </li>
+                        <li>
+                            <h6>Ukranian <em>(Working proficiency)</em></h6>
+                        </li>
+                </ul>
+            </div>
+            <div class="container interests-container">
+                <div class="title">
+                    <h3>Interests</h3>
+                    <div class="keyline"></div>
+                </div>
+                    <section class="item">
+                            <h4 class="bold">Wildlife</h4>
+                            <ul class="minimal">
+                                    <li>Nature</li>
+                                    <li>Animals</li>
+                                    <li>Fishing</li>
+                            </ul>
+                    </section>
+                    <section class="item">
+                            <h4 class="bold">Technology</h4>
+                            <ul class="minimal">
+                                    <li>Electronics</li>
+                                    <li>Programming</li>
+                                    <li>IoT</li>
+                            </ul>
+                    </section>
+                    <section class="item">
+                            <h4 class="bold">Medicine</h4>
+                            <ul class="minimal">
+                                    <li>Massage</li>
+                                    <li>Farmacology</li>
+                                    <li>Chemistry</li>
+                            </ul>
+                    </section>
+            </div>
+      </aside>
+      <div class="right-column">
+                <div class="container summary-container">
+                    <div class="title">
+                        <h3>Summary</h3>
+                        <div class="keyline"></div>
+                    </div>            <p class="summary">
+                        Skilled Java software engineer analyst with experience in agile software development. I have worked on various projects in different  fields from entertainment to insurance. Through my career I have been always focused on product from business as well as technical perspective making sure that development is always adding value to the final customer. I’m analytic, highly organized person, team player, able to work independently as well as in team environment and success with meeting deadlines under pressure. I’m selfmotivated,  flexible mind person with ideas and enthusiasm. Agile methodologies believer. For every moment ready to learn new tools, methodologies and techniques. I am always customer focused, interested in learning new businesses and technologies.
+                    </p>
+                </div>
+        <div class="container work-container">
+            <div class="title">
+                <h3>Experience</h3>
+                <div class="keyline"></div>
+            </div>
+                <section class="item">
+                    <div class="section-header clearfix">
+                        <h5 class="italic pull-right">
+                                <span class="startDate">08/2017</span>
+                                <span class="endDate"> - Present</span>
+                        </h5>
+                    </div>
+        
+                    <h4>Development Team Lead</h4>
+        
+        
+                    <p class="summary">• Recruiting, tracking project progress against planned schedule
+        • Setting up the mission for the team, ensuring team motivation, evaluation.
+        Responsible for deciding how to approach tasks and develop a plan to
+        accomplish them.
+        • Possible risks and their mitigation with stakeholders
+        • Organising meetings for any sort of clarification
+        • Discussing requirements with business users, formalising, analyse, review
+        and clarification them.
+        • Doing solution research and design. Creating PoCs for stakeholders
+        review.
+        • Discussing &amp; sorting issues as incidents, defects and clarifications.
+        • Final code review. Incorporating best development practices into the
+        process. Coaching newcomers
+        • Evaluate team progress &amp; prepare weekly team report
+        • Preparing demo’s. Actively support the build and deployment process;
+        • Developing solution with WS integration, micro-services, messaging,
+        workflow, data and UI customisation, data migration and concurrent data
+        processing</p>
+        
+                    <ul>
+                        <li>Recruiting</li>
+                        <li>Preparing demos</li>
+                        <li>WS integration</li>
+                        <li>MicroServices</li>
+                        <li>messaging</li>
+                        <li>Teams assesment</li>
+                        <li>Requirements clarification</li>
+                    </ul>
+                </section>
+                <section class="item">
+                    <div class="section-header clearfix">
+                        <h5 class="italic pull-right">
+                                <span class="startDate">05/2017</span>
+                                <span class="endDate"> - Present</span>
+                        </h5>
+                    </div>
+        
+                    <h4>Lead Fullstack Software Engineer</h4>
+        
+        
+                    <p class="summary">• Conducting TDDs and recruitment interviews,
+        • Managing training plans (Personal Development plans),
+        • Organising educational events,
+        • Mentoring, prepare &amp; carrying out technical performance reviews and
+        work interviews.
+        • Analysis of the area-related training (books, articles, conferences) needs
+        • Managing conflicts. Define &amp; increase motivational factors for Helmes AS
+        company.</p>
+        
+                    <ul>
+                        <li>Mentoring</li>
+                        <li>Education</li>
+                        <li>Recruitment interviews</li>
+                        <li>Personal performance reviews</li>
+                    </ul>
+                </section>
+        </div>
+        <div class="container education-container">
+            <div class="title">
+            <h3>Education</h3>
+            <div class="keyline"></div>
+        </div> 
+            <section class="item">
+                <div class="section-header clearfix">
+            <h3 class="bold pull-left">
+                    Belarusian State University
+            </h3>
+            <h5 class="italic pull-right">
+                    <span class="startDate">08/2009</span>
+                    <span class="endDate"> - 08/2014</span>
+            </h5>
+        </div>
+         
+                <h4>Master Mathematics &amp; Modelling and System analysis</h4>
+        
+              </section>
+        </div>
+        <div class="container volunteer-container">
+            <div class="title">
+                <h3>Volunteer</h3>
+                <div class="keyline"></div>
+            </div>
+            <section class="item">
+                <div class="section-header clearfix">
+                    <h3 class="bold pull-left">
+                            Ochotnicy warszawscy
+                    </h3>
+                    <h5 class="italic pull-right">
+                    </h5>
+                </div>
+                <h5>Volunteer</h5>
+        
+                <p class="summary">Volunteer help with translation (English/Russian/Ukranian) and segregation</p>
+        
+            </section>
+        </div>
+        <div class="container references-container">
+            <div class="title">
+                <h3>References</h3>
+                <div class="keyline"></div>
+            </div>
+                <section class="item clearfix">
+                    <i class="fa fa-quote-left pull-left" aria-hidden="true"></i>
+                    <blockquote>
+                        Reference…
+                    </blockquote>
+        
+                    <h5 class="pull-right"> — Olga Ezerskaja</h5>
+                </section>
+                <section class="item clearfix">
+                    <i class="fa fa-quote-left pull-left" aria-hidden="true"></i>
+                    <blockquote>
+                        I consent to the processing of my personal data for the purposes of the recruitment process in accordance with Regulation (EU) 2016/679 of the European Parliament, UK GDPR Data Protection Act 2018, Swiss Data Protection Act 2020 (DPA) and of the Council of 27 April 2016 on the protection of individuals with regard to the processing of personal data and on the free movement of such data and repealing Directive 95/46 / EC (GDPR).
+                    </blockquote>
+        
+                    <h5 class="pull-right"> — GDPR</h5>
+                </section>
+        </div>
+      </div>
+    </div>
+  </main>
+</body>
+
+</html>
