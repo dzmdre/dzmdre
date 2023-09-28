@@ -242,13 +242,13 @@ Web Development with Kotlin
 
 </div>
 
-### 📣 How about an Office quote before you go?
+### 📣 How about an quote before you go?
 
-> {office_quote}
+> {quote}
 >
-> <p>{office_character}</p>
+> <p>{quote_author}</p>
 
-_Quote requested from [The Office API](https://www.officeapi.dev/)_
+_Quote requested from [The Quote API](https://api.quotable.io/random)_
 
 Check back at the top of the hour for a new quote!
 
