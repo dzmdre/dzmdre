@@ -251,9 +251,9 @@ Web Development with Kotlin
 
 ### 📣 How about an quote before you go?
 
-> Choose a job you love, and you will never have to work a day in your life.
+> The only limit to your impact is your imagination and commitment.
 >
-> <p>- Confucius</p>
+> <p>- Tony Robbins</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
