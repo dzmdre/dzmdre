@@ -251,9 +251,9 @@ Web Development with Kotlin
 
 ### 📣 How about an quote before you go?
 
-> The only limit to your impact is your imagination and commitment.
+> The journey of a thousand miles begins with one step.
 >
-> <p>- Tony Robbins</p>
+> <p>- Laozi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
