@@ -251,9 +251,9 @@ Web Development with Kotlin
 
 ### 📣 How about an quote before you go?
 
-> Education is the most powerful weapon which you can use to change the world.
+> You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Naguib Mahfouz</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
