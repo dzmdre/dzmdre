@@ -117,7 +117,7 @@ I am a Full Stack Developer with 9+ years of experience in developing enterprise
 1. <a href="https://mnogosdelal.ru/slidecasts/dovedenie-del-do-kontsa/">Jedi empty inbox technique or how to get things done (Джедайская техника пустого инбокса или как доводить дела до конца)  Максим Дорофеев 2014</a>
 
 ### Cloud:
-1. <a href="about:blank">Udacity - Cloud Architect using Microsoft Azure - February 2022</a>
+1. <a href="https://udacity-email.s3.us-west-2.amazonaws.com/Bertelsmann_Scholarship_Creative/Bertelsmann_Challenge_Finalist_Badge.png?bsft_aaid=8d7e276e-4a10-41b2-8868-423fe96dd6b2&bsft_eid=902e8bb5-9838-953b-5e09-40ac86843a81&utm_campaign=sch_600_2022-02-19_ndxxx_bertelsmann_year3_phase1_100-badge&utm_source=blueshift&utm_medium=email&utm_content=sch_600_2022-02-19_ndxxx_bertelsmann_year3_phase1_100-badge&bsft_clkid=8a0cf627-2a35-4fb8-8bcf-6bcf00e218eb&bsft_uid=2649f3d0-2ea5-41f5-bc46-ec3508d9fb44&bsft_mid=a9e6ba9f-e54d-45a0-b963-2ca06f4a200e&bsft_txnid=582ba5f7-1853-4949-916c-c26edfaaa7d3&bsft_mime_type=html&bsft_ek=2022-02-23T17%3A02%3A45Z&bsft_lx=5&bsft_tv=11">Udacity - Cloud Architect using Microsoft Azure - February 2022</a>
 2. <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/YB8GU8D747Q5">Architecting with Google Compute Engine Specialization - November 2021</a>
 3. <a href="https://www.coursera.org/account/accomplishments/certificate/6EQK6R4PQJXQ">Reliable Google Cloud Infrastructure: Design and Process - November 2021</a>
 4. <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/XNHMMXGHWPGY">Preparing for Google Cloud Certification: Cloud Architect Specialization - November 2021</a>
