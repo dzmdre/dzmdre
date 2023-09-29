@@ -251,9 +251,9 @@ Web Development with Kotlin
 
 ### 📣 How about an quote before you go?
 
-> The possibilities are numerous once we decide to act and not react.
+> The highest stage in moral culture at which we can arrive is when we recognize that we ought to control our thoughts.
 >
-> <p>- George Bernard Shaw</p>
+> <p>- Charles Darwin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
