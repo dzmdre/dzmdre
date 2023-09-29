@@ -251,9 +251,9 @@ Web Development with Kotlin
 
 ### 📣 How about an quote before you go?
 
-> Whenever you find yourself on the side of the majority, it is time to pause and reflect.
+> Difficulties increase the nearer we get to the goal.
 >
-> <p>- Mark Twain</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
