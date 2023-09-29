@@ -251,9 +251,9 @@ Web Development with Kotlin
 
 ### 📣 How about an quote before you go?
 
-> Time you enjoy wasting, was not wasted.
+> Life is so constructed that an event does not, cannot, will not, match the expectation.
 >
-> <p>- John Lennon</p>
+> <p>- Charlotte Brontë</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
