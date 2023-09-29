@@ -251,9 +251,9 @@ Web Development with Kotlin
 
 ### 📣 How about an quote before you go?
 
-> It is the mark of an educated mind to be able to entertain a thought without accepting it.
+> The years teach much which the days never know.
 >
-> <p>- Aristotle</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
