@@ -251,9 +251,9 @@ Web Development with Kotlin
 
 ### 📣 How about an quote before you go?
 
-> Life is so constructed that an event does not, cannot, will not, match the expectation.
+> There is no greater harm than that of time wasted.
 >
-> <p>- Charlotte Brontë</p>
+> <p>- Michelangelo</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
