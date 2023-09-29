@@ -251,9 +251,9 @@ Web Development with Kotlin
 
 ### 📣 How about an quote before you go?
 
-> The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live.
+> Time you enjoy wasting, was not wasted.
 >
-> <p>- Mortimer J. Adler</p>
+> <p>- John Lennon</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
