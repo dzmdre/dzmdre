@@ -251,9 +251,9 @@ Web Development with Kotlin
 
 ### 📣 How about an quote before you go?
 
-> Where there is charity and wisdom, there is neither fear nor ignorance.
+> The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live.
 >
-> <p>- Francis of Assisi</p>
+> <p>- Mortimer J. Adler</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
