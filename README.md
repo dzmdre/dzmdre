@@ -251,9 +251,9 @@ Web Development with Kotlin
 
 ### 📣 How about an quote before you go?
 
-> The highest stage in moral culture at which we can arrive is when we recognize that we ought to control our thoughts.
+> Just because something doesn't do what you planned it to do doesn't mean it's useless.
 >
-> <p>- Charles Darwin</p>
+> <p>- Thomas Edison</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
