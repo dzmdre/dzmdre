@@ -251,9 +251,9 @@ Web Development with Kotlin
 
 ### 📣 How about an quote before you go?
 
-> We all live with the objective of being happy; our lives are all different and yet the same.
+> The possibilities are numerous once we decide to act and not react.
 >
-> <p>- Anne Frank</p>
+> <p>- George Bernard Shaw</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
