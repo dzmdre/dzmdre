@@ -251,9 +251,9 @@ Web Development with Kotlin
 
 ### 📣 How about an quote before you go?
 
-> The simplest things are often the truest.
+> Where there is charity and wisdom, there is neither fear nor ignorance.
 >
-> <p>- Richard Bach</p>
+> <p>- Francis of Assisi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
