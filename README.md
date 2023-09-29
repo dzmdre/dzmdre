@@ -251,9 +251,9 @@ Web Development with Kotlin
 
 ### 📣 How about an quote before you go?
 
-> We can do no great things, only small things with great love.
+> When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps.
 >
-> <p>- Mother Teresa</p>
+> <p>- Confucius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
