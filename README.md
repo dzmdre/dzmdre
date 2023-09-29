@@ -251,9 +251,9 @@ Web Development with Kotlin
 
 ### 📣 How about an quote before you go?
 
-> There is no greater harm than that of time wasted.
+> We all live with the objective of being happy; our lives are all different and yet the same.
 >
-> <p>- Michelangelo</p>
+> <p>- Anne Frank</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
