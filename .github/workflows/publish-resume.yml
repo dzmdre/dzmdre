@@ -5,7 +5,6 @@ on:
   push:
     branches: [ master ]
   schedule: # Run workflow automatically
-    # This will make it run every hour
     - cron: "0 1 * * *"
     # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
   workflow_dispatch:
@@ -45,7 +44,7 @@ jobs:
           fi
       - name: Push changes
         uses: ad-m/github-push-action@master
-#        if: steps.commit.outputs.exit_code == 0
+        if: steps.commit.outputs.exit_code == 0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-#          branch: ${{ github.ref }}
+          branch: ${{ github.ref }}

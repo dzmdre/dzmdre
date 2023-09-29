@@ -9,7 +9,7 @@ permissions:
   contents: write # To write the generated contents to the readme
 
 jobs:
-  get-office-quotes:
+  get-quotes:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -31,7 +31,7 @@ jobs:
         with:
           github_token: ${{secrets.GITHUB_TOKEN}}
   update-readme-with-blog:
-    needs: get-office-quotes
+    needs: get-quotes
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
