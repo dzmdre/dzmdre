@@ -251,9 +251,9 @@ Web Development with Kotlin
 
 ### 📣 How about an quote before you go?
 
-> It is one of the severest tests of friendship to tell your friend his faults. So to love a man that you cannot bear to see a stain upon him, and to speak painful truth through loving words, that is friendship.
+> You can't win unless you learn how to lose.
 >
-> <p>- Henry Ward Beecher</p>
+> <p>- Kareem Abdul-Jabbar</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
