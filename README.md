@@ -251,9 +251,9 @@ Web Development with Kotlin
 
 ### 📣 How about an quote before you go?
 
-> The journey of a thousand miles begins with one step.
+> Waste no more time arguing about what a good man should be. Be one.
 >
-> <p>- Laozi</p>
+> <p>- Marcus Aurelius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
