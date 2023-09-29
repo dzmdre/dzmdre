@@ -251,9 +251,9 @@ Web Development with Kotlin
 
 ### 📣 How about an quote before you go?
 
-> Waste no more time arguing about what a good man should be. Be one.
+> A heart well prepared for adversity in bad times hopes, and in good times fears for a change in fortune.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Horace</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
