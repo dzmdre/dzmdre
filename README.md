@@ -251,9 +251,9 @@ Web Development with Kotlin
 
 ### 📣 How about an quote before you go?
 
-> The years teach much which the days never know.
+> Blessed are the hearts that can bend; they shall never be broken.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Albert Camus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
