@@ -39,4 +39,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           # Replace this URL with your rss feed URL/s
-          feed_list: "https://dzmdre.blogspot.com/feeds/posts/default?alt=rss"
+          feed_list: "https://dzmdre.blogspot.com/feeds/posts/default?alt=rss,https://dev.to/feed/dmitryd"
