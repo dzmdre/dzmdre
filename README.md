@@ -251,9 +251,9 @@ Web Development with Kotlin
 
 ### 📣 How about an quote before you go?
 
-> When you discover your mission, you will feel its demand. It will fill you with enthusiasm and a burning desire to get to work on it.
+> Friendship is Love without his wings!
 >
-> <p>- W. Clement Stone</p>
+> <p>- Lord Byron</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
