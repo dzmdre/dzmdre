@@ -251,9 +251,9 @@ Web Development with Kotlin
 
 ### 📣 How about an quote before you go?
 
-> The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
+> I will prepare and someday my chance will come.
 >
-> <p>- Isaac Asimov</p>
+> <p>- Abraham Lincoln</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
