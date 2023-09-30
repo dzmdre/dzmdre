@@ -251,9 +251,9 @@ Web Development with Kotlin
 
 ### 📣 How about an quote before you go?
 
-> The first step to getting the things you want out of life is this: decide what you want.
+> The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
 >
-> <p>- Ben Stein</p>
+> <p>- Isaac Asimov</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
