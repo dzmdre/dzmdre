@@ -245,17 +245,15 @@ Web Development with Kotlin
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> Until you make peace with who you are, you'll never be content with what you have.
+> To find a man's true character, play golf with him.
 >
-> <p>- Doris Mortman</p>
+> <p>- P. G. Wodehouse</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
