@@ -251,9 +251,9 @@ Web Development with Kotlin
 
 ### 📣 How about an quote before you go?
 
-> Fears are nothing more than a state of mind.
+> If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Barack Obama</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
