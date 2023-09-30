@@ -251,9 +251,9 @@ Web Development with Kotlin
 
 ### 📣 How about an quote before you go?
 
-> Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance.
+> Give, even if you only have a little.
 >
-> <p>- Thomas Carlyle</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
