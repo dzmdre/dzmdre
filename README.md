@@ -251,9 +251,9 @@ Web Development with Kotlin
 
 ### 📣 How about an quote before you go?
 
-> I will prepare and someday my chance will come.
+> Value your friendship. Value your relationships.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Barbara Bush</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
