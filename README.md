@@ -251,9 +251,9 @@ Web Development with Kotlin
 
 ### 📣 How about an quote before you go?
 
-> If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.
+> The first step to getting the things you want out of life is this: decide what you want.
 >
-> <p>- Barack Obama</p>
+> <p>- Ben Stein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
