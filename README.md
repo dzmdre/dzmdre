@@ -251,9 +251,9 @@ Web Development with Kotlin
 
 ### 📣 How about an quote before you go?
 
-> Blessed are the hearts that can bend; they shall never be broken.
+> Whatever happens, take responsibility.
 >
-> <p>- Albert Camus</p>
+> <p>- Tony Robbins</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
