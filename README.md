@@ -251,9 +251,9 @@ Web Development with Kotlin
 
 ### 📣 How about an quote before you go?
 
-> Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself.
+> I believe that every person is born with talent.
 >
-> <p>- Henry Reed</p>
+> <p>- Maya Angelou</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
