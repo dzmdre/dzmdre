@@ -251,9 +251,9 @@ Web Development with Kotlin
 
 ### 📣 How about an quote before you go?
 
-> Whatever happens, take responsibility.
+> Fears are nothing more than a state of mind.
 >
-> <p>- Tony Robbins</p>
+> <p>- Napoleon Hill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
