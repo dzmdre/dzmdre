@@ -251,9 +251,9 @@ Web Development with Kotlin
 
 ### 📣 How about an quote before you go?
 
-> Value your friendship. Value your relationships.
+> Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance.
 >
-> <p>- Barbara Bush</p>
+> <p>- Thomas Carlyle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
