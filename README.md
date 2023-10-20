@@ -245,17 +245,15 @@ Web Development with Kotlin
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.
+> Smile, breathe and go slowly.
 >
-> <p>- Kathleen Norris</p>
+> <p>- Thích Nhất Hạnh</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
