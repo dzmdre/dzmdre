@@ -245,17 +245,15 @@ Web Development with Kotlin
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> I believe that we are fundamentally the same and have the same basic potential.
+> Impossibilities are merely things which we have not yet learned.
 >
-> <p>- Dalai Lama</p>
+> <p>- Charles W. Chesnutt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
