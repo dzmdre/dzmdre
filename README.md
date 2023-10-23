@@ -245,17 +245,15 @@ Web Development with Kotlin
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> Follow effective action with quiet reflection. From the quiet reflection will come even more effective action.
+> Adversity causes some men to break, others to break records.
 >
-> <p>- Peter Drucker</p>
+> <p>- William Arthur Ward</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
