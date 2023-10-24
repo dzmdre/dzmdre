@@ -245,17 +245,15 @@ Web Development with Kotlin
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> Gratitude is riches. Complaint is poverty.
+> The greater danger for most of us lies not in setting our aim too high and falling short; but in setting our aim too low and achieving our mark.
 >
-> <p>- Doris Day</p>
+> <p>- Michelangelo</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
