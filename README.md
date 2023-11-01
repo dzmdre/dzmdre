@@ -245,17 +245,15 @@ Web Development with Kotlin
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> Courage is not the absence of fear, but simply moving on with dignity despite that fear.
+> A day of worry is more exhausting than a day of work.
 >
-> <p>- Pat Riley</p>
+> <p>- John Lubbock</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
