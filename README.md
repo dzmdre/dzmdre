@@ -245,17 +245,15 @@ Web Development with Kotlin
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> You've got to go out on a limb sometimes because that's where the fruit is.
+> One friend in a lifetime is much; two are many; three are hardly possible. Friendship needs a certain parallelism of life, a community of thought, a rivalry of aim.
 >
-> <p>- Will Rogers</p>
+> <p>- Brooks Adams</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
