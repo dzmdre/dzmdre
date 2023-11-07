@@ -245,17 +245,15 @@ Web Development with Kotlin
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> I endeavor to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress.
+> Always keep your mind as bright and clear as the vast sky, the great ocean, and the highest peak, empty of all thoughts. Always keep your body filled with light and heat. Fill yourself with the power of wisdom and enlightenment.
 >
-> <p>- Elizabeth Montagu</p>
+> <p>- Morihei Ueshiba</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
