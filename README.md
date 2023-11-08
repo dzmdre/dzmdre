@@ -245,17 +245,15 @@ Web Development with Kotlin
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> We can only be said to be alive in those moments when our hearts are conscious of our treasures.
+> A man who doesn't trust himself can never really trust anyone else.
 >
-> <p>- Thornton Wilder</p>
+> <p>- Jean François Paul de Gondi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
