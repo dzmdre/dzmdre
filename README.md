@@ -245,17 +245,15 @@ Web Development with Kotlin
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> Take no thought of who is right or wrong or who is better than. Be not for or against.
+> There are two kinds of failures: those who thought and never did, and those who did and never thought.
 >
-> <p>- Bruce Lee</p>
+> <p>- Laurence J. Peter</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
