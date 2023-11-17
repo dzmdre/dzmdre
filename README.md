@@ -245,17 +245,15 @@ Web Development with Kotlin
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> Good thoughts are no better than good dreams, unless they be executed.
+> Friendship is certainly the finest balm for the pangs of disappointed love.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Jane Austen</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
