@@ -245,17 +245,15 @@ Web Development with Kotlin
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> Technology… is a queer thing. It brings you great gifts with one hand, and it stabs you in the back with the other.
+> Friendship is one mind in two bodies.
 >
-> <p>- Carrie Snow</p>
+> <p>- Mencius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
