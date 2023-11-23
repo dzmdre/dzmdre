@@ -245,17 +245,15 @@ Web Development with Kotlin
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> One secret of success in life is for a man to be ready for his opportunity when it comes.
+> There are no failures. Just experiences and your reactions to them.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Tom Krause</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
