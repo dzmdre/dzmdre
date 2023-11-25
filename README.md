@@ -245,17 +245,15 @@ Web Development with Kotlin
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> You are important enough to ask and you are blessed enough to receive back.
+> Sometimes it is better to lose and do the right thing than to win and do the wrong thing.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Tony Blair</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
