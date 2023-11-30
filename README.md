@@ -246,17 +246,15 @@ Web Development with Kotlin
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> The truest greatness lies in being kind, the truest wisdom in a happy mind.
+> The possibilities are numerous once we decide to act and not react.
 >
-> <p>- Ella Wheeler Wilcox</p>
+> <p>- George Bernard Shaw</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
