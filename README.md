@@ -246,17 +246,15 @@ Web Development with Kotlin
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> If you are out to describe the truth, leave elegance to the tailor.
+> How wonderful that we have met with a paradox. Now we have some hope of making progress.
 >
-> <p>- Albert Einstein</p>
+> <p>- Niels Bohr</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
