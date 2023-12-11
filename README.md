@@ -246,17 +246,15 @@ Web Development with Kotlin
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> The man of knowledge must be able not only to love his enemies but also to hate his friends.
+> Forgiveness is choosing to love. It is the first skill of self-giving love.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Mahatma Gandhi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
