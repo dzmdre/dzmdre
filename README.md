@@ -246,17 +246,15 @@ Web Development with Kotlin
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> To be happy is to be able to become aware of oneself without fright.
+> We know what we are but know not what we may be.
 >
-> <p>- Walter Benjamin</p>
+> <p>- William Shakespeare</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
