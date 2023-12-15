@@ -246,17 +246,15 @@ Web Development with Kotlin
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> Friendships are the family we make - not the one we inherit. I've always been someone to whom friendship, elective affinities, is as important as family.
+> The higher we are placed, the more humbly we should walk.
 >
-> <p>- Salman Rushdie</p>
+> <p>- Cicero</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
