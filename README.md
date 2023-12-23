@@ -246,17 +246,15 @@ Web Development with Kotlin
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> What matters is the value we've created in our lives, the people we've made happy and how much we've grown as people.
+> A subtle thought that is in error may yet give rise to fruitful inquiry that can establish truths of great value.
 >
-> <p>- Daisaku Ikeda</p>
+> <p>- Isaac Asimov</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
