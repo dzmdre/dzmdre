@@ -111,6 +111,11 @@ I am a Full Stack Developer with 9+ years of experience in developing enterprise
 6. <a href="https://www.helmes.com">Recruitment and competency leader course by Raul Ennus (Helmes AS) - 2017</a>
 7. <a href="./assets/Dobry-networking.pdf">Dobry networking - sieci kontaktow w  poszukiwaniu pracy</a>
 
+### Product Management
+1. <a href="https://coursera.org/share/fb4f2ec4c896ac25ceee6fac5880964c">Client Needs and Software Requirements - Dec 2023</a>
+2. <a href="https://coursera.org/share/7a3914ce7bb90fb52aea070e56fd317a">Introduction to Software Product Management - Dec 2023</a>
+3. <a href="https://coursera.org/share/bc3b26ed6b15ede23c542e321ef636e0">Software Processes and Agile Practices - Dec 2023</a>
+
 ### Estimation training
 1. <a href="https://www.helmes.com">Estimation training by Meelis Lang 2015</a>
 
@@ -166,7 +171,7 @@ I am a Full Stack Developer with 9+ years of experience in developing enterprise
 46. <a href="https://www.cloudskillsboost.google/public_profiles/7da740f4-63d6-4ac8-bcbb-6f6825718ba8/badges/1787488?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share">Secure and Rate Limit API calls with API Gateway - March 2022</a>
 47. <a href="https://www.cloudskillsboost.google/public_profiles/7da740f4-63d6-4ac8-bcbb-6f6825718ba8/badges/1747067?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share">Securing Cloud with Palo Alto Networks - March 2022</a>
 48. <a href="https://www.cloudskillsboost.google/public_profiles/7da740f4-63d6-4ac8-bcbb-6f6825718ba8/badges/1789276?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share">Creating with Google Maps - March 2022</a>
-49. AWS Serverless REST APIs for Java Developers. CI/CD included
+<!--# (49. AWS Serverless REST APIs for Java Developers. CI/CD included) -->
 
 ### Kubernetes:
 1. <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/DASQTD5WDC6M">Architecting with Google Kubernetes Engine Specialization - November 2021</a>
@@ -199,7 +204,7 @@ I am a Full Stack Developer with 9+ years of experience in developing enterprise
 
 ### Angular/React
 1. <a href="https://www.udemy.com/certificate/UC-4b208bd7-806e-408e-a1a6-fa5fcdfdbeff/">Angular - The Complete Guide - October 2021</a>
-2. React redux
+<!--[//]: # (2. React redux) -->
 
 ### ELK
 1. <a href="https://ude.my/UC-72ab0226-7227-4c1a-afc6-63fd3580df0c">ElasticSearch, LogStash, Kibana ELK #1 - Learn ElasticSearch - July 2021</a>
@@ -216,10 +221,12 @@ I am a Full Stack Developer with 9+ years of experience in developing enterprise
 ### German
 1. <a href="https://www.goethe.de/">Teilnahmebestätigung Goethe-Institut A2 - 2017</a>
 2. <a href="https://www.goethe.de/">Goethe-Zertifikat A1 SD1 - December - 2016</a>
+<!--
+[//]: # (### SQL/NoSQL)
 
-### SQL/NoSQL
-1. SQL and PostgreSQL: The Complete Developer's Guide
-2. MongoDB Essentials - Understand the Basics of MongoDB
+[//]: # (1. SQL and PostgreSQL: The Complete Developer's Guide)
+
+[//]: # (2. MongoDB Essentials - Understand the Basics of MongoDB) -->
 
 ### Java
 1. <a href="https://www.epam.com/">Java Mentoring Program (JMP) - 2014</a>
@@ -231,9 +238,10 @@ I am a Full Stack Developer with 9+ years of experience in developing enterprise
 7. <a href="https://www.coursera.org/account/accomplishments/certificate/93Y9M5JLLY23">Distributed Programming in Java - December 2021</a>
 8. <a href="https://www.coursera.org/account/accomplishments/certificate/AQ9DQQMU67V6">Concurrent Programming in Java - December 2021</a>
 9. <a href="https://www.cloudskillsboost.google/public_profiles/7da740f4-63d6-4ac8-bcbb-6f6825718ba8/badges/1699856?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share">Application Development - Java - January 2022</a>
+<!--
+[//]: # (###  Kotlin)
 
-###  Kotlin
-Web Development with Kotlin
+[//]: # (Web Development with Kotlin) -->
 
 ### Python
 1. <a href="https://www.datacamp.com/statement-of-accomplishment/course/cc8cb9f63a0ae6942f5c5310f1e45afcf737e614">Intermediate Python - December 2021</a>
