@@ -246,17 +246,15 @@ Web Development with Kotlin
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> When you discover your mission, you will feel its demand. It will fill you with enthusiasm and a burning desire to get to work on it.
+> I don't believe you have to be better than everybody else. I believe you have to be better than you ever thought you could be.
 >
-> <p>- W. Clement Stone</p>
+> <p>- Ken Venturi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
