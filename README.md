@@ -246,17 +246,15 @@ Web Development with Kotlin
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> I am a man of fixed and unbending principles, the first of which is to be flexible at all times.
+> Not all those who wander are lost.
 >
-> <p>- Everett Dirksen</p>
+> <p>- J. R. R. Tolkien</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
