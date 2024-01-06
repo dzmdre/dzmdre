@@ -195,9 +195,10 @@ I am a Full Stack Developer with 9+ years of experience in developing enterprise
 1. <a href="https://www.coursera.org/account/accomplishments/certificate/SG5J4ZAA978J">Spring boot microservices cqrs saga axon framework - April 2023</a>
 2. <a href="https://www.udemy.com/certificate/UC-555eeff4-3a55-40c1-a9e6-6b5cdaecefd1/">Building Spring Boot REST API - September 2021</a>
 3. <a href="https://testprovider.com/ru/search-certificate/tp05910538">Spring Security - January 2021</a>
-4. Spring boot microservices and spring cloud
-5. RESTful Web Services, Java, Spring Boot, Spring MVC and JPA
-6. <a href="https://www.udemy.com/certificate/UC-7eab67bc-a948-4422-9ba0-93eddf2ce607/">Event-Driven Microservices, CQRS, SAGA, Axon, Spring Boot - September 2023</a>
+4. <a href="https://www.udemy.com/certificate/UC-7eab67bc-a948-4422-9ba0-93eddf2ce607/">Event-Driven Microservices, CQRS, SAGA, Axon, Spring Boot - September 2023</a>
+
+<!-- 5. Spring boot microservices and spring cloud
+5. RESTful Web Services, Java, Spring Boot, Spring MVC and JPA -->
 
 ### Security
 1. <a href="https://www.udemy.com/certificate/UC-2156d9de-7ac6-4d64-8686-249af65343d5/">OAuth 2.0 in Spring Boot Applications - August 2021</a>
