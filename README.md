@@ -109,6 +109,7 @@ I am a Full Stack Developer with 9+ years of experience in developing enterprise
 4. <a href="https://metaprofit.ee/ru/koolitused/stressijuhtimine/">Conflict and stress management in a team (Управление конфликтами и стрессом в команде) 2017</a>
 5. <a href="https://metaprofit.ee/ru/koolitused/labiraakimised/">Technology of introducing professional negotiations (Технология введения профессиональных переговоров («Искусство ведения собраний») 2017</a>
 6. <a href="https://www.helmes.com">Recruitment and competency leader course by Raul Ennus (Helmes AS) - 2017</a>
+7. <a href="./assets/Dobry-networking.pdf">Dobry networking - sieci kontaktow w  poszukiwaniu pracy</a>
 
 ### Estimation training
 1. <a href="https://www.helmes.com">Estimation training by Meelis Lang 2015</a>
@@ -237,7 +238,7 @@ Web Development with Kotlin
 ### Python
 1. <a href="https://www.datacamp.com/statement-of-accomplishment/course/cc8cb9f63a0ae6942f5c5310f1e45afcf737e614">Intermediate Python - December 2021</a>
 2. <a href="https://www.datacamp.com/statement-of-accomplishment/course/5b3eeb79705257bffbb1133a6a09a1d4fefc28e5">Data Manipulation with pandas - December 2021</a>
-
+3. <a href="./assets/Data-Science-w-Python.pdf">Data Science w Pythonie</a>
 </div>
 
 <br>
@@ -253,9 +254,9 @@ Web Development with Kotlin
 
 ### 📣 How about an quote before you go?
 
-> If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.
+> Life shrinks or expands in proportion to one's courage.
 >
-> <p>- Pema Chödrön</p>
+> <p>- Anaïs Nin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
