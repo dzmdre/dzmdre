@@ -110,11 +110,27 @@ I am a Full Stack Developer with 9+ years of experience in developing enterprise
 5. <a href="https://metaprofit.ee/ru/koolitused/labiraakimised/">Technology of introducing professional negotiations (Технология введения профессиональных переговоров («Искусство ведения собраний») 2017</a>
 6. <a href="https://www.helmes.com">Recruitment and competency leader course by Raul Ennus (Helmes AS) - 2017</a>
 7. <a href="./assets/Dobry-networking.pdf">Dobry networking - sieci kontaktow w  poszukiwaniu pracy</a>
+<!--
+8. <a href="">Google Project Management:Foundations of Project Management</a>
+9. <a href="">Google Project Management:Project Initiation: Starting a Successful Project</a>
+10. <a href="">Google Project Management:Project Planning: Putting It All Together</a>
+11. <a href="">Google Project Management:Project Execution: Running the Project</a>
+12. <a href="">Google Project Management:Agile Project Management</a>
+13. <a href="">Google Project Management:Capstone: Applying Project Management in the Real World</a>
+14. <a href="">University of California:Initiating and Planning Projects</a>
+15. <a href="">University of California:Managing Project Risks and Changes</a>
+16. <a href="">University of California:High-Impact Business Writing</a>
+17. <a href="">University of California:The Art of Negotiation</a>
+18. <a href="">University of California:Effective Problem-Solving and Decision-Making</a> -->
 
 ### Product Management
 1. <a href="https://coursera.org/share/fb4f2ec4c896ac25ceee6fac5880964c">Client Needs and Software Requirements - Dec 2023</a>
 2. <a href="https://coursera.org/share/7a3914ce7bb90fb52aea070e56fd317a">Introduction to Software Product Management - Dec 2023</a>
 3. <a href="https://coursera.org/share/bc3b26ed6b15ede23c542e321ef636e0">Software Processes and Agile Practices - Dec 2023</a>
+<!-- 4. <a href="">Agile Planning for Software Products  12 hours -  2024</a>
+5. <a href="">Reviews & Metrics for Software Improvements 8 hours -  2024</a>
+6. <a href="">Software Product Management Capstone 19 hours -  2024</a> -->
+
 
 ### Estimation training
 1. <a href="https://www.helmes.com">Estimation training by Meelis Lang 2015</a>
