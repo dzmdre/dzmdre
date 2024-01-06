@@ -110,11 +110,27 @@ I am a Full Stack Developer with 9+ years of experience in developing enterprise
 5. <a href="https://metaprofit.ee/ru/koolitused/labiraakimised/">Technology of introducing professional negotiations (Технология введения профессиональных переговоров («Искусство ведения собраний») 2017</a>
 6. <a href="https://www.helmes.com">Recruitment and competency leader course by Raul Ennus (Helmes AS) - 2017</a>
 7. <a href="./assets/Dobry-networking.pdf">Dobry networking - sieci kontaktow w  poszukiwaniu pracy</a>
+<!--
+8. <a href="">Google Project Management:Foundations of Project Management</a>
+9. <a href="">Google Project Management:Project Initiation: Starting a Successful Project</a>
+10. <a href="">Google Project Management:Project Planning: Putting It All Together</a>
+11. <a href="">Google Project Management:Project Execution: Running the Project</a>
+12. <a href="">Google Project Management:Agile Project Management</a>
+13. <a href="">Google Project Management:Capstone: Applying Project Management in the Real World</a>
+14. <a href="">University of California:Initiating and Planning Projects</a>
+15. <a href="">University of California:Managing Project Risks and Changes</a>
+16. <a href="">University of California:High-Impact Business Writing</a>
+17. <a href="">University of California:The Art of Negotiation</a>
+18. <a href="">University of California:Effective Problem-Solving and Decision-Making</a> -->
 
 ### Product Management
 1. <a href="https://coursera.org/share/fb4f2ec4c896ac25ceee6fac5880964c">Client Needs and Software Requirements - Dec 2023</a>
 2. <a href="https://coursera.org/share/7a3914ce7bb90fb52aea070e56fd317a">Introduction to Software Product Management - Dec 2023</a>
 3. <a href="https://coursera.org/share/bc3b26ed6b15ede23c542e321ef636e0">Software Processes and Agile Practices - Dec 2023</a>
+<!-- 4. <a href="">Agile Planning for Software Products  12 hours -  2024</a>
+5. <a href="">Reviews & Metrics for Software Improvements 8 hours -  2024</a>
+6. <a href="">Software Product Management Capstone 19 hours -  2024</a> -->
+
 
 ### Estimation training
 1. <a href="https://www.helmes.com">Estimation training by Meelis Lang 2015</a>
@@ -195,9 +211,10 @@ I am a Full Stack Developer with 9+ years of experience in developing enterprise
 1. <a href="https://www.coursera.org/account/accomplishments/certificate/SG5J4ZAA978J">Spring boot microservices cqrs saga axon framework - April 2023</a>
 2. <a href="https://www.udemy.com/certificate/UC-555eeff4-3a55-40c1-a9e6-6b5cdaecefd1/">Building Spring Boot REST API - September 2021</a>
 3. <a href="https://testprovider.com/ru/search-certificate/tp05910538">Spring Security - January 2021</a>
-4. Spring boot microservices and spring cloud
-5. RESTful Web Services, Java, Spring Boot, Spring MVC and JPA
-6. <a href="https://www.udemy.com/certificate/UC-7eab67bc-a948-4422-9ba0-93eddf2ce607/">Event-Driven Microservices, CQRS, SAGA, Axon, Spring Boot - September 2023</a>
+4. <a href="https://www.udemy.com/certificate/UC-7eab67bc-a948-4422-9ba0-93eddf2ce607/">Event-Driven Microservices, CQRS, SAGA, Axon, Spring Boot - September 2023</a>
+
+<!-- 5. Spring boot microservices and spring cloud
+5. RESTful Web Services, Java, Spring Boot, Spring MVC and JPA -->
 
 ### Security
 1. <a href="https://www.udemy.com/certificate/UC-2156d9de-7ac6-4d64-8686-249af65343d5/">OAuth 2.0 in Spring Boot Applications - August 2021</a>
@@ -251,17 +268,15 @@ Web Development with Kotlin  -->
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> Ignorant men don't know what good they hold in their hands until they've flung it away.
+> The more you like yourself, the less you are like anyone else, which makes you unique.
 >
-> <p>- Sophocles</p>
+> <p>- Walt Disney</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
