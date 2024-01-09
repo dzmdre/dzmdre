@@ -268,17 +268,15 @@ Web Development with Kotlin  -->
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> Opportunity is missed by most because it is dressed in overalls and looks like work.
+> Life is so constructed that an event does not, cannot, will not, match the expectation.
 >
-> <p>- Thomas Edison</p>
+> <p>- Charlotte Brontë</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
