@@ -268,17 +268,15 @@ Web Development with Kotlin  -->
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> Keep your eyes on the stars and your feet on the ground.
+> The dream was always running ahead of me. To catch up, to live for a moment in unison with it, that was the miracle.
 >
-> <p>- Theodore Roosevelt</p>
+> <p>- Anaïs Nin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
