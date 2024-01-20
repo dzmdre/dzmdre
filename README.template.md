@@ -110,9 +110,8 @@ I am a Full Stack Developer with 9+ years of experience in developing enterprise
 5. <a href="https://metaprofit.ee/ru/koolitused/labiraakimised/">Technology of introducing professional negotiations (Технология введения профессиональных переговоров («Искусство ведения собраний») 2017</a>
 6. <a href="https://www.helmes.com">Recruitment and competency leader course by Raul Ennus (Helmes AS) - 2017</a>
 7. <a href="./assets/Dobry-networking.pdf">Dobry networking - sieci kontaktow w  poszukiwaniu pracy</a>
-<!--
-8. <a href="">Google Project Management:Foundations of Project Management</a>
-9. <a href="">Google Project Management:Project Initiation: Starting a Successful Project</a>
+8. <a href="https://coursera.org/share/c5f54a79291b39e6243ede0b4b18ebf5">Google Project Management:Foundations of Project Management</a>
+<!-- 9. <a href="">Google Project Management:Project Initiation: Starting a Successful Project</a>
 10. <a href="">Google Project Management:Project Planning: Putting It All Together</a>
 11. <a href="">Google Project Management:Project Execution: Running the Project</a>
 12. <a href="">Google Project Management:Agile Project Management</a>
