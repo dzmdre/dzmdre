@@ -268,17 +268,15 @@ Web Development with Kotlin  -->
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> First comes thought; then organization of that thought, into ideas and plans; then transformation of those plans into reality. The beginning, as you will observe, is in your imagination.
+> Silence is deep as Eternity; Speech is shallow as Time.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Thomas Carlyle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
