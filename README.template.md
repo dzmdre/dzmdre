@@ -220,6 +220,7 @@ I am a Full Stack Developer with 9+ years of experience in developing enterprise
 
 ### Angular/React
 1. <a href="https://www.udemy.com/certificate/UC-4b208bd7-806e-408e-a1a6-fa5fcdfdbeff/">Angular - The Complete Guide - October 2021</a>
+2. <a href="https://testprovider.com/ru/search-certificate/tp29011731">TypeScript - February 2024</a>
 <!--React redux -->
 
 ### ELK
