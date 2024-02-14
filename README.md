@@ -268,17 +268,15 @@ Web Development with Kotlin  -->
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> Doing what you love is the cornerstone of having abundance in your life.
+> The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Thomas Edison</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
