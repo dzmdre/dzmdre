@@ -268,17 +268,15 @@ Web Development with Kotlin  -->
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> That old law about 'an eye for an eye' leaves everybody blind. The time is always right to do the right thing.
+> An ounce of emotion is equal to a ton of facts.
 >
-> <p>- Martin Luther King Jr.</p>
+> <p>- John Junor</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
