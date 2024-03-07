@@ -268,17 +268,15 @@ Web Development with Kotlin  -->
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> You can only learn so much from books. You can only learn so much from education. Ultimately, it is the wisdom of God that will carry you through in the toughest situations of life.
+> We live in a society bloated with data yet starved for wisdom. We're connected 24/7, yet anxiety, fear, depression and loneliness are at an all-time high. We must course-correct.
 >
-> <p>- Ravi Zacharias</p>
+> <p>- Elizabeth Kapu'uwailani Lindsey</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
