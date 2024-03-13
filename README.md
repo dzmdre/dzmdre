@@ -268,17 +268,15 @@ Web Development with Kotlin  -->
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> Wishing to be friends is quick work, but friendship is a slow ripening fruit.
+> Don't smother each other. No one can grow in the shade.
 >
-> <p>- Aristotle</p>
+> <p>- Leo Buscaglia</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
