@@ -274,9 +274,9 @@ Web Development with Kotlin  -->
 
 ### 📣 How about an quote before you go?
 
-> Stay away from what might have been and look at what will be.
+> Be here now. Be someplace else later. Is that so complicated?
 >
-> <p>- Marsha Petrie Sue</p>
+> <p>- David Bader</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
