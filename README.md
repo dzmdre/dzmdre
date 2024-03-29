@@ -268,17 +268,15 @@ Web Development with Kotlin  -->
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> Parents can only give good advice or put them on the right paths, but the final forming of a person's character lies in their own hands.
+> Stay away from what might have been and look at what will be.
 >
-> <p>- Anne Frank</p>
+> <p>- Marsha Petrie Sue</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
