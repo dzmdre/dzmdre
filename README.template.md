@@ -126,8 +126,8 @@ I am a Full Stack Developer with 9+ years of experience in developing enterprise
 1. <a href="https://coursera.org/share/fb4f2ec4c896ac25ceee6fac5880964c">Client Needs and Software Requirements - Dec 2023</a>
 2. <a href="https://coursera.org/share/7a3914ce7bb90fb52aea070e56fd317a">Introduction to Software Product Management - Dec 2023</a>
 3. <a href="https://coursera.org/share/bc3b26ed6b15ede23c542e321ef636e0">Software Processes and Agile Practices - Dec 2023</a>
-<!-- 4. <a href="">Agile Planning for Software Products  12 hours -  2024</a>
-5. <a href="">Reviews & Metrics for Software Improvements 8 hours -  2024</a>
+4. <a href="">Agile Planning for Software Products  12 hours -  2024</a>
+<!-- 5. <a href="">Reviews & Metrics for Software Improvements 8 hours -  2024</a>
 6. <a href="">Software Product Management Capstone 19 hours -  2024</a> -->
 
 
@@ -221,6 +221,7 @@ I am a Full Stack Developer with 9+ years of experience in developing enterprise
 ### Angular/React
 1. <a href="https://www.udemy.com/certificate/UC-4b208bd7-806e-408e-a1a6-fa5fcdfdbeff/">Angular - The Complete Guide - October 2021</a>
 2. <a href="https://testprovider.com/ru/search-certificate/tp29011731">TypeScript - February 2024</a>
+3. <a href="https://testprovider.com/ru/search-certificate/tp26631033">React - March 2024</a>
 <!--React redux -->
 
 ### ELK
