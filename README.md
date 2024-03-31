@@ -268,17 +268,15 @@ Web Development with Kotlin  -->
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> People usually compare the computer to the head of the human being. I would say that hardware is the bone of the head, the skull. The semiconductor is the brain within the head. The software is the wisdom. And data is the knowledge.
+> When written in Chinese, the word 'crisis' is composed of two characters. One represents danger and the other represents opportunity.
 >
-> <p>- Masayoshi Son</p>
+> <p>- John F. Kennedy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
