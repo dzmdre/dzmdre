@@ -268,17 +268,15 @@ Web Development with Kotlin  -->
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> All the world is a stage, And all the men and women merely players. They have their exits and entrances; Each man in his time plays many parts.
+> A man may fulfil the object of his existence by asking a question he cannot answer and attempting a task he cannot achieve.
 >
-> <p>- William Shakespeare</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
