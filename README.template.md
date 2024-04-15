@@ -112,6 +112,8 @@ I am a Full Stack Developer with 9+ years of experience in developing enterprise
 7. <a href="./assets/Dobry-networking.pdf">Dobry networking - sieci kontaktow w  poszukiwaniu pracy</a>
 8. <a href="https://coursera.org/share/c5f54a79291b39e6243ede0b4b18ebf5">Google Project Management:Foundations of Project Management</a>
 9. <a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=1026418">SCRUMstudy - Scrum Fundamentals Certified (SFC)</a>
+9. <a href="https://www.scrumstudy.com/certification/verify?type=SODFC&number=1010797">SCRUMstudy - Scrum for Operations & DevOps Fundamentals Certified (SODFC)</a>
+10. <a href="https://www.credly.com/earner/earned/badge/97237e31-1abd-47fc-b885-396a1d6a97a8">Cisco - English for IT-2 B2 / GSE 59-75</a>
 <!-- 9. <a href="">Google Project Management:Project Initiation: Starting a Successful Project</a>
 10. <a href="">Google Project Management:Project Planning: Putting It All Together</a>
 11. <a href="">Google Project Management:Project Execution: Running the Project</a>
@@ -187,6 +189,7 @@ I am a Full Stack Developer with 9+ years of experience in developing enterprise
 46. <a href="https://www.cloudskillsboost.google/public_profiles/7da740f4-63d6-4ac8-bcbb-6f6825718ba8/badges/1787488?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share">Secure and Rate Limit API calls with API Gateway - March 2022</a>
 47. <a href="https://www.cloudskillsboost.google/public_profiles/7da740f4-63d6-4ac8-bcbb-6f6825718ba8/badges/1747067?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share">Securing Cloud with Palo Alto Networks - March 2022</a>
 48. <a href="https://www.cloudskillsboost.google/public_profiles/7da740f4-63d6-4ac8-bcbb-6f6825718ba8/badges/1789276?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share">Creating with Google Maps - March 2022</a>
+49. <a href="https://www.credly.com/earner/earned/badge/81e6a1bf-6ce9-4f1d-8ff3-c0f2e99f6aa8">AWS Educate Introduction to Cloud 101 - March 2024</a>
 <!-- AWS Serverless REST APIs for Java Developers. CI/CD included -->
 
 ### Kubernetes:
@@ -218,6 +221,7 @@ I am a Full Stack Developer with 9+ years of experience in developing enterprise
 
 ### Security
 1. <a href="https://www.udemy.com/certificate/UC-2156d9de-7ac6-4d64-8686-249af65343d5/">OAuth 2.0 in Spring Boot Applications - August 2021</a>
+2. <a href="https://www.credly.com/earner/earned/badge/beaee1e5-7145-4fa2-be8b-ec385af9c082">Cisco - Introduction to Cybersecurity</a>
 
 ### Angular/React
 1. <a href="https://www.udemy.com/certificate/UC-4b208bd7-806e-408e-a1a6-fa5fcdfdbeff/">Angular - The Complete Guide - October 2021</a>
