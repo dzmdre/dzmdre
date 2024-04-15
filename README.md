@@ -268,17 +268,15 @@ Web Development with Kotlin  -->
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> Much though he recites the sacred texts, but acts not accordingly, that heedless man is like a cowherd who only counts the cows of others
+> He who is fixed to a star does not change his mind.
 >
-> <p>- The Buddha</p>
+> <p>- Leonardo da Vinci</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
