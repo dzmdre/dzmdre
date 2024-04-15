@@ -268,17 +268,15 @@ Web Development with Kotlin  -->
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> Every man takes the limits of his own field of vision for the limits of the world.
+> To be able to give away riches is mandatory if you wish to possess them. This is the only way that you will be truly rich.
 >
-> <p>- Arthur Schopenhauer</p>
+> <p>- Muhammad Ali</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
