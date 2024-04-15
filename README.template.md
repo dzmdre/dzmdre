@@ -104,7 +104,8 @@ I am a Full Stack Developer with 9+ years of experience in developing enterprise
 ### PM & Leading course
 
 1. <a href="https://stratoplan-school.com/">Managers school Stratoplan  (2018)</a>
-2. <a href="https://stratoplan-school.com/">Recruitment and competency leader course by Raul Ennus (CTO) 2017</a>
+1. <a href="https://stratoplan-school.com/cert/teamlead201/2024/Dzmitry_Drepin.pdf">Stratoplan-TeamLead-201-Jan-2024</a>
+2. <a href="https://helmess.ee/">Helmes AS-Recruitment and competency leader course by Raul Ennus (CTO) 2017</a>
 3. <a href="https://metaprofit.ee/ru/koolitused/juhtimine/juhi-arenguprogramm/#1493302883883-b38364a6-b958">Competency conversations (Беседы по компетенциям) 2017</a>
 4. <a href="https://metaprofit.ee/ru/koolitused/stressijuhtimine/">Conflict and stress management in a team (Управление конфликтами и стрессом в команде) 2017</a>
 5. <a href="https://metaprofit.ee/ru/koolitused/labiraakimised/">Technology of introducing professional negotiations (Технология введения профессиональных переговоров («Искусство ведения собраний») 2017</a>
@@ -323,6 +324,7 @@ Check back at the top of the hour for a new quote!
 <br/>
 <!--
 
+<div align="center"> <img src="https://cms-assets.tutsplus.com/cdn-cgi/image/width=1700/uploads/users/2660/posts/32785/image-upload/creative_junkies_logo_B3677MS.jpg" align="center" style="width: 100%" /></div> 
 <div align="center"> <img src="https://cms-assets.tutsplus.com/cdn-cgi/image/width=1700/uploads/users/2660/posts/32785/image-upload/creative_junkies_logo_B3677MS.jpg" align="center" style="width: 100%" /></div> 
  ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dzmdre&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
