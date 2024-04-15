@@ -111,6 +111,7 @@ I am a Full Stack Developer with 9+ years of experience in developing enterprise
 6. <a href="https://www.helmes.com">Recruitment and competency leader course by Raul Ennus (Helmes AS) - 2017</a>
 7. <a href="./assets/Dobry-networking.pdf">Dobry networking - sieci kontaktow w  poszukiwaniu pracy</a>
 8. <a href="https://coursera.org/share/c5f54a79291b39e6243ede0b4b18ebf5">Google Project Management:Foundations of Project Management</a>
+9. <a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=1026418">SCRUMstudy - Scrum Fundamentals Certified (SFC)</a>
 <!-- 9. <a href="">Google Project Management:Project Initiation: Starting a Successful Project</a>
 10. <a href="">Google Project Management:Project Planning: Putting It All Together</a>
 11. <a href="">Google Project Management:Project Execution: Running the Project</a>
