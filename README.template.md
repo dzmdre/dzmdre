@@ -100,6 +100,7 @@ I am a Full Stack Developer with 9+ years of experience in developing enterprise
 
 ### My Certifications
 <div align="left">
+Credly account: <a href="https://www.credly.com/users/dzmitry-drepin/badges">Credly</a>
 
 ### PM & Leading course
 
@@ -115,6 +116,7 @@ I am a Full Stack Developer with 9+ years of experience in developing enterprise
 9. <a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=1026418">SCRUMstudy - Scrum Fundamentals Certified (SFC)</a>
 9. <a href="https://www.scrumstudy.com/certification/verify?type=SODFC&number=1010797">SCRUMstudy - Scrum for Operations & DevOps Fundamentals Certified (SODFC)</a>
 10. <a href="https://www.credly.com/earner/earned/badge/97237e31-1abd-47fc-b885-396a1d6a97a8">Cisco - English for IT-2 B2 / GSE 59-75</a>
+11. <a href="https://learning.pmi.org/certificate?id=07750779-5273-42da-93b6-a467b5886868">PMI-Generative AI for PMs-Apr-2024</a>
 <!-- 9. <a href="">Google Project Management:Project Initiation: Starting a Successful Project</a>
 10. <a href="">Google Project Management:Project Planning: Putting It All Together</a>
 11. <a href="">Google Project Management:Project Execution: Running the Project</a>
