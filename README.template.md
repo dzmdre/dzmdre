@@ -329,7 +329,6 @@ Check back at the top of the hour for a new quote!
 <!--
 
 <div align="center"> <img src="https://cms-assets.tutsplus.com/cdn-cgi/image/width=1700/uploads/users/2660/posts/32785/image-upload/creative_junkies_logo_B3677MS.jpg" align="center" style="width: 100%" /></div> 
-<div align="center"> <img src="https://cms-assets.tutsplus.com/cdn-cgi/image/width=1700/uploads/users/2660/posts/32785/image-upload/creative_junkies_logo_B3677MS.jpg" align="center" style="width: 100%" /></div> 
  ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dzmdre&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <br/> 
