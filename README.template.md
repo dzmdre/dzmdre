@@ -114,9 +114,9 @@ Credly account: <a href="https://www.credly.com/users/dzmitry-drepin/badges">Cre
 7. <a href="./assets/Dobry-networking.pdf">Dobry networking - sieci kontaktow w  poszukiwaniu pracy</a>
 8. <a href="https://coursera.org/share/c5f54a79291b39e6243ede0b4b18ebf5">Google Project Management:Foundations of Project Management</a>
 9. <a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=1026418">SCRUMstudy - Scrum Fundamentals Certified (SFC)</a>
-9. <a href="https://www.scrumstudy.com/certification/verify?type=SODFC&number=1010797">SCRUMstudy - Scrum for Operations & DevOps Fundamentals Certified (SODFC)</a>
-10. <a href="https://www.credly.com/earner/earned/badge/97237e31-1abd-47fc-b885-396a1d6a97a8">Cisco - English for IT-2 B2 / GSE 59-75</a>
-11. <a href="https://learning.pmi.org/certificate?id=07750779-5273-42da-93b6-a467b5886868">PMI-Generative AI for PMs-Apr-2024</a>
+10. <a href="https://www.scrumstudy.com/certification/verify?type=SODFC&number=1010797">SCRUMstudy - Scrum for Operations & DevOps Fundamentals Certified (SODFC)</a>
+11. <a href="https://www.credly.com/earner/earned/badge/97237e31-1abd-47fc-b885-396a1d6a97a8">Cisco - English for IT-2 B2 / GSE 59-75</a>
+12. <a href="https://learning.pmi.org/certificate?id=07750779-5273-42da-93b6-a467b5886868">PMI-Generative AI for PMs-Apr-2024</a>
 <!-- 9. <a href="">Google Project Management:Project Initiation: Starting a Successful Project</a>
 10. <a href="">Google Project Management:Project Planning: Putting It All Together</a>
 11. <a href="">Google Project Management:Project Execution: Running the Project</a>
@@ -132,8 +132,8 @@ Credly account: <a href="https://www.credly.com/users/dzmitry-drepin/badges">Cre
 1. <a href="https://coursera.org/share/fb4f2ec4c896ac25ceee6fac5880964c">Client Needs and Software Requirements - Dec 2023</a>
 2. <a href="https://coursera.org/share/7a3914ce7bb90fb52aea070e56fd317a">Introduction to Software Product Management - Dec 2023</a>
 3. <a href="https://coursera.org/share/bc3b26ed6b15ede23c542e321ef636e0">Software Processes and Agile Practices - Dec 2023</a>
-4. <a href="">Agile Planning for Software Products  12 hours -  2024</a>
-<!-- 5. <a href="">Reviews & Metrics for Software Improvements 8 hours -  2024</a>
+<!-- 4. <a href="">Agile Planning for Software Products  12 hours -  2024</a>
+ 5. <a href="">Reviews & Metrics for Software Improvements 8 hours -  2024</a>
 6. <a href="">Software Product Management Capstone 19 hours -  2024</a> -->
 
 
