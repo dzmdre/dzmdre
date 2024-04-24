@@ -214,6 +214,12 @@ Credly account: <a href="https://www.credly.com/users/dzmitry-drepin/badges">Cre
 1. <a href="https://www.coursera.org/account/accomplishments/certificate/SG5J4ZAA978J">Building Scalable Java Microservices with Spring Boot and Spring Cloud - April 2023</a>
 2. <a href="https://www.cloudskillsboost.google/public_profiles/7da740f4-63d6-4ac8-bcbb-6f6825718ba8/badges/1695484?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share">Building Scalable Java Microservices with Spring Boot and Spring Cloud - January 2022</a>
 3. <a href="https://www.cloudskillsboost.google/public_profiles/7da740f4-63d6-4ac8-bcbb-6f6825718ba8/badges/1786337?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share">Websites and Web Applications - March 2022</a>
+<!--4. <a href="#">Academy Lightbend - Reactive Architecture: Introduction to Reactive Systems - Apr 2024</a>
+5. <a href="#">Academy Lightbend - Reactive Architecture: Domain Driven Design - Apr 2024</a>
+6. <a href="#">Academy Lightbend - Reactive Architecture: Reactive Microservices - Apr 2024</a>
+7. <a href="#">Academy Lightbend - Reactive Architecture: Building Scalable Systems - Apr 2024</a>
+8. <a href="#">Academy Lightbend - Reactive Architecture: Distributed Messaging Patterns - Apr 2024</a>
+9. <a href="#">Academy Lightbend - Reactive Architecture: CQRS & Event Sourcing - Apr 2024</a> -->
 
 ### Spring
 1. <a href="https://www.coursera.org/account/accomplishments/certificate/SG5J4ZAA978J">Spring boot microservices cqrs saga axon framework - April 2023</a>
