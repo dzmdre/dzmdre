@@ -268,10 +268,12 @@ MongoDB Essentials - Understand the Basics of MongoDB -->
 Kotlin
 Web Development with Kotlin  -->
 
-### Python
+### AI/Python/Data  Science
 1. <a href="https://www.datacamp.com/statement-of-accomplishment/course/cc8cb9f63a0ae6942f5c5310f1e45afcf737e614">Intermediate Python - December 2021</a>
 2. <a href="https://www.datacamp.com/statement-of-accomplishment/course/5b3eeb79705257bffbb1133a6a09a1d4fefc28e5">Data Manipulation with pandas - December 2021</a>
 3. <a href="./assets/Data-Science-w-Python.pdf">Data Science w Pythonie</a>
+4. <a href="https://credentials.databricks.com/e2c5a6e1-78b9-4309-8d86-e051bf754593">Academy Accreditation - Generative AI Fundamentals - Apr 2024</a>
+
 </div>
 
 <br>
