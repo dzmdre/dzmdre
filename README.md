@@ -268,17 +268,15 @@ Web Development with Kotlin  -->
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> Stay away from what might have been and look at what will be.
+> If only wed stop trying to be happy wed have a pretty good time.
 >
-> <p>- Marsha Petrie Sue</p>
+> <p>- Edith Wharton</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
