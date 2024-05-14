@@ -276,9 +276,9 @@ Web Development with Kotlin  -->
 
 ### 📣 How about an quote before you go?
 
-> The more you like yourself, the less you are like anyone else, which makes you unique.
+> Knowing is not enough; we must apply!
 >
-> <p>- Walt Disney</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
