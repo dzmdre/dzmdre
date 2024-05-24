@@ -196,6 +196,12 @@ Credly account: <a href="https://www.credly.com/users/dzmitry-drepin/badges">Cre
 47. <a href="https://www.cloudskillsboost.google/public_profiles/7da740f4-63d6-4ac8-bcbb-6f6825718ba8/badges/1747067?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share">Securing Cloud with Palo Alto Networks - March 2022</a>
 48. <a href="https://www.cloudskillsboost.google/public_profiles/7da740f4-63d6-4ac8-bcbb-6f6825718ba8/badges/1789276?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share">Creating with Google Maps - March 2022</a>
 49. <a href="https://www.credly.com/earner/earned/badge/81e6a1bf-6ce9-4f1d-8ff3-c0f2e99f6aa8">AWS Educate Introduction to Cloud 101 - March 2024</a>
+50. <a href="https://www.credly.com/badges/c7c4881a-1658-4543-a40b-a5bf108fb4d4">Google Cloud - Implement Load Balancing on Compute Engine Skill Badge</a>
+51. <a href="https://www.credly.com/badges/bc8207b4-cbe3-4efb-b91a-a70c56c7936b">Google Cloud - Build Infrastructure with Terraform on Google Cloud Skill Badge</a>
+52. <a href="https://www.credly.com/badges/f6190920-ef6d-4824-9d3a-87c3f9503b84">Google Cloud - Develop Your Google Cloud Network Skill Badge</a>
+53. <a href="https://www.credly.com/badges/1cd8c429-75c5-44da-90cc-398a062ab1ee">Google Cloud - Deploy Kubernetes Applications on Google Cloud Skill Badge</a>
+54. <a href="https://www.credly.com/badges/9976a927-c1df-4461-b5c2-4b1f30293c45">Google Cloud - Set Up a Google Cloud Network Skill Badge</a>
+55. <a href="https://www.credly.com/badges/26a79f26-7a71-45c1-939c-bf6b15f55b5a">Google Cloud - Develop Serverless Applications on Cloud Run Skill Badge</a>
 <!-- AWS Serverless REST APIs for Java Developers. CI/CD included -->
 
 ### Kubernetes:
