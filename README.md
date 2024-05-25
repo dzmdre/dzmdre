@@ -283,17 +283,15 @@ MongoDB Essentials - Understand the Basics of MongoDB -->
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> There surely is in human nature an inherent propensity to extract all the good out of all the evil.
+> A leader is one who knows the way, goes the way, and shows the way.
 >
-> <p>- Benjamin Haydon</p>
+> <p>- John C. Maxwell</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
