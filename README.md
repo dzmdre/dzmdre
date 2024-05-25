@@ -283,17 +283,15 @@ MongoDB Essentials - Understand the Basics of MongoDB -->
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> Nobody will believe in you unless you believe in yourself.
+> If you have the guts to keep making mistakes, your wisdom and intelligence leap forward with huge momentum.
 >
-> <p>- Liberace</p>
+> <p>- Holly Near</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
