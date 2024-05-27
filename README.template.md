@@ -258,9 +258,9 @@ MongoDB Essentials - Understand the Basics of MongoDB -->
 3. <a href="https://www.epam.com/">EPAM: Monitoring, Debugging, Benchmarking and Troubleshooting Java Applications - Evgeny Borisov -  2012</a>
 4. <a href="https://www.coursera.org/account/accomplishments/certificate/LEJUW6ZM3XKX">Rice University - Parallel Programming in Java - December 2021</a>
 5. <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/HJTRBFRYNTKY">Rice University - Parallel, Concurrent, and Distributed Programming in Java Specialization - December 2021</a>
-6. <a href="https://www.coursera.org/account/accomplishments/certificate/GKFSN6JWC4L6">AWS: Improve Your Java Code Using Amazon CodeGuru - December 2021</a>
-7. <a href="https://www.coursera.org/account/accomplishments/certificate/93Y9M5JLLY23">RICE University - Distributed Programming in Java - December 2021</a>
-8. <a href="https://www.coursera.org/account/accomplishments/certificate/AQ9DQQMU67V6">RICE University - Concurrent Programming in Java - December 2021</a>
+6. <a href="https://www.coursera.org/account/accomplishments/certificate/93Y9M5JLLY23">Rice University - Distributed Programming in Java - December 2021</a>
+7. <a href="https://www.coursera.org/account/accomplishments/certificate/AQ9DQQMU67V6">Rice University - Concurrent Programming in Java - December 2021</a>
+8. <a href="https://www.coursera.org/account/accomplishments/certificate/GKFSN6JWC4L6">AWS: Improve Your Java Code Using Amazon CodeGuru - December 2021</a>
 9. <a href="https://www.cloudskillsboost.google/public_profiles/7da740f4-63d6-4ac8-bcbb-6f6825718ba8/badges/1699856?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share">Cloud skills boost: Application Development - Java - January 2022</a>
 <!--
 <a href="#">Kotlin</a>
