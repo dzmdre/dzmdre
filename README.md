@@ -301,17 +301,15 @@ MongoDB Essentials - Understand the Basics of MongoDB -->
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> If you seek truth, you will not seek victory by dishonorable means, and if you find truth you will become invincible.
+> Wisdom is a kind of knowledge. It is knowledge of the nature, career, and consequences of human values.
 >
-> <p>- Epictetus</p>
+> <p>- Sidney Hook</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
