@@ -301,17 +301,15 @@ MongoDB Essentials - Understand the Basics of MongoDB -->
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> Take rest; a field that has rested gives a bountiful crop.
+> You can't let praise or criticism get to you. It's a weakness to get caught up in either one.
 >
-> <p>- Ovid</p>
+> <p>- John Wooden</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
