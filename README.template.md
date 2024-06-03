@@ -127,6 +127,7 @@ Credly account: <a href="https://www.credly.com/users/dzmitry-drepin/badges">Cre
 2. <a href="https://coursera.org/share/7a3914ce7bb90fb52aea070e56fd317a">University of Alberta: Introduction to Software Product Management - Dec 2023</a>
 3. <a href="https://coursera.org/share/bc3b26ed6b15ede23c542e321ef636e0">University of Alberta: Software Processes and Agile Practices - Dec 2023</a>
 4. <a href="https://www.credly.com/badges/16182369-3ac5-4d64-b29e-9d4f3f1bb9e4/public_url">Pendo: AI for Product Management - May 2024</a>
+5. <a href="./assets/certificate-of-completion-for-product-analytics.pdf">Product School: Product Analytics - Jun 2024</a>
 <!--
 <a href="#">Pendo: Product Management Basics Certification - May 2024</a>
 <a href="#">Pendo: Digital Adoption Certification Course - May 2024</a> 
