@@ -121,6 +121,18 @@ Credly account: <a href="https://www.credly.com/users/dzmitry-drepin/badges">Cre
 15. <a href="https://www.credly.com/badges/4c60aaed-802c-4050-8acb-8ed59602f77c/public_url">PMI: Fundamentals of Agile PM Apr 2024</a>
 16. <a href="https://www.credly.com/badges/b1ace126-cba7-416c-9f68-db71c44f9e5d/public_url">PMI: Fundamentals of Predictive PM Apr 2024</a>
 17. <a href="https://www.helmes.com">Helmes AS: Estimation training by Meelis Lang 2015</a>
+<!--
+<a href="">Google Project Management:Project Initiation: Starting a Successful Project</a>
+<a href="">Google Project Management:Project Planning: Putting It All Together</a>
+<a href="">Google Project Management:Project Execution: Running the Project</a>
+<a href="">Google Project Management:Agile Project Management</a>
+<a href="">Google Project Management:Capstone: Applying Project Management in the Real World</a>
+<a href="">University of California:Initiating and Planning Projects</a>
+<a href="">University of California:Managing Project Risks and Changes</a>
+<a href="">University of California:High-Impact Business Writing</a>
+<a href="">University of California:The Art of Negotiation</a>
+<a href="">University of California:Effective Problem-Solving and Decision-Making</a>
+-->
 
 ### Product Management
 1. <a href="https://coursera.org/share/fb4f2ec4c896ac25ceee6fac5880964c">University of Alberta: Client Needs and Software Requirements - Dec 2023</a>
@@ -130,8 +142,16 @@ Credly account: <a href="https://www.credly.com/users/dzmitry-drepin/badges">Cre
 5. <a href="#">Pendo: Product Management Basics Certification - Jun 2024</a>
 6. <a href="#">Pendo: Digital Adoption Certification Course - Jun 2024</a>
 7. <a href="./assets/certificate-of-completion-for-product-analytics.pdf">Product School: Product Analytics - Jun 2024</a>
-8. <a href="./assets/certificate-of-completion-for-product-led-growth-micro-certificate-plg.pdf">Product School: Product-Led Growth Micro-Certification (PLGC) - Jun 2024</a>
-9. <a href="./assets/certificate-of-completion-for-product-roadmapping-micro-certification.pdf">Product School: Product Road mapping Micro-Certification (PRC) - Jun 2024</a>
+8. <a href="./assets/certificate-of-completion-for-product-led-growth-micro-certificate-plg.pdf">Product School: Product-Led Growth (PLGC) - Jun 2024</a>
+9. <a href="./assets/certificate-of-completion-for-product-roadmapping-micro-certification.pdf">Product School: Product Road mapping (PRC) - Jun 2024</a>
+10. <a href="./assets/#.pdf">Product School: Product Strategy (PSC) - Jun 2024</a>
+11. <a href="./assets/#.pdf">Product School: Product Launches (PRLC) - Jun 2024</a>
+12. <a href="./assets/#.pdf">Product School: Artificial Intelligence (AIC) - Jun 2024</a>
+<!--
+<a href="#">University of Alberta: Agile Planning for Software Products - Jun 2024</a>
+<a href="#">University of Alberta: Reviews & Metrics for Software Improvements - Jun 2024</a>
+<a href="#">University of Alberta: Software Product Management Capstone - Jun 2024</a> 
+-->
 
 ### Cloud:
 1. <a href="https://udacity-email.s3.us-west-2.amazonaws.com/Bertelsmann_Scholarship_Creative/Bertelsmann_Challenge_Finalist_Badge.png?bsft_aaid=8d7e276e-4a10-41b2-8868-423fe96dd6b2&bsft_eid=902e8bb5-9838-953b-5e09-40ac86843a81&utm_campaign=sch_600_2022-02-19_ndxxx_bertelsmann_year3_phase1_100-badge&utm_source=blueshift&utm_medium=email&utm_content=sch_600_2022-02-19_ndxxx_bertelsmann_year3_phase1_100-badge&bsft_clkid=8a0cf627-2a35-4fb8-8bcf-6bcf00e218eb&bsft_uid=2649f3d0-2ea5-41f5-bc46-ec3508d9fb44&bsft_mid=a9e6ba9f-e54d-45a0-b963-2ca06f4a200e&bsft_txnid=582ba5f7-1853-4949-916c-c26edfaaa7d3&bsft_mime_type=html&bsft_ek=2022-02-23T17%3A02%3A45Z&bsft_lx=5&bsft_tv=11">Udacity: Cloud Architect using Microsoft Azure - February 2022</a>
@@ -267,20 +287,6 @@ MongoDB Essentials - Understand the Basics of MongoDB -->
 <a href="#">Kotlin</a>
 <a href="#">Web Development with Kotlin</a>
 <a href="#">Lightbend Scala Language - Professional - Apr 2024</a>
-
-<a href="">Google Project Management:Project Initiation: Starting a Successful Project</a>
-<a href="">Google Project Management:Project Planning: Putting It All Together</a>
-<a href="">Google Project Management:Project Execution: Running the Project</a>
-<a href="">Google Project Management:Agile Project Management</a>
-<a href="">Google Project Management:Capstone: Applying Project Management in the Real World</a>
-<a href="">University of California:Initiating and Planning Projects</a>
-<a href="">University of California:Managing Project Risks and Changes</a>
-<a href="">University of California:High-Impact Business Writing</a>
-<a href="">University of California:The Art of Negotiation</a>
-<a href="">University of California:Effective Problem-Solving and Decision-Making</a> 
-4. <a href="">Agile Planning for Software Products  12 hours -  2024</a>
-5. <a href="">Reviews & Metrics for Software Improvements 8 hours -  2024</a>
-6. <a href="">Software Product Management Capstone 19 hours -  2024</a> 
 -->
 
 ### AI/Python/Data  Science
