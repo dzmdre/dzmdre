@@ -144,10 +144,10 @@ Credly account: <a href="https://www.credly.com/users/dzmitry-drepin/badges">Cre
 7. <a href="./assets/certificate-of-completion-for-product-analytics.pdf">Product School: Product Analytics - Jun 2024</a>
 8. <a href="./assets/certificate-of-completion-for-product-led-growth-micro-certificate-plg.pdf">Product School: Product-Led Growth (PLGC) - Jun 2024</a>
 9. <a href="./assets/certificate-of-completion-for-product-roadmapping-micro-certification.pdf">Product School: Product Road mapping (PRC) - Jun 2024</a>
-10. <a href="./assets/#.pdf">Product School: Product Strategy (PSC) - Jun 2024</a>
+10. <a href="./assets/certificate-of-completion-for-product-strategy-microcertification.pdf">Product School: Product Strategy (PSC) - Jun 2024</a>
+<!--
 11. <a href="./assets/#.pdf">Product School: Product Launches (PRLC) - Jun 2024</a>
 12. <a href="./assets/#.pdf">Product School: Artificial Intelligence (AIC) - Jun 2024</a>
-<!--
 <a href="#">University of Alberta: Agile Planning for Software Products - Jun 2024</a>
 <a href="#">University of Alberta: Reviews & Metrics for Software Improvements - Jun 2024</a>
 <a href="#">University of Alberta: Software Product Management Capstone - Jun 2024</a> 
