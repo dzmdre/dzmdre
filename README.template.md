@@ -139,12 +139,13 @@ Credly account: <a href="https://www.credly.com/users/dzmitry-drepin/badges">Cre
 2. <a href="https://coursera.org/share/7a3914ce7bb90fb52aea070e56fd317a">University of Alberta: Introduction to Software Product Management - Dec 2023</a>
 3. <a href="https://coursera.org/share/bc3b26ed6b15ede23c542e321ef636e0">University of Alberta: Software Processes and Agile Practices - Dec 2023</a>
 4. <a href="https://www.credly.com/badges/16182369-3ac5-4d64-b29e-9d4f3f1bb9e4/public_url">Pendo: AI for Product Management - May 2024</a>
-5. <a href="#">Pendo: Product Management Basics Certification - Jun 2024</a>
-6. <a href="#">Pendo: Digital Adoption Certification Course - Jun 2024</a>
+5. <a href="https://www.credly.com/badges/18b917f1-d9af-4405-9351-87863e454c12/public_url">Pendo: Product Management Basics Certification - Jun 2024</a>
+6. <a href="https://www.credly.com/badges/3effd523-077b-4ed9-8eb6-3a92a4641abb/public_url">Pendo: Digital Adoption Certification Course - Jun 2024</a>
 7. <a href="./assets/certificate-of-completion-for-product-analytics.pdf">Product School: Product Analytics - Jun 2024</a>
 8. <a href="./assets/certificate-of-completion-for-product-led-growth-micro-certificate-plg.pdf">Product School: Product-Led Growth (PLGC) - Jun 2024</a>
 9. <a href="./assets/certificate-of-completion-for-product-roadmapping-micro-certification.pdf">Product School: Product Road mapping (PRC) - Jun 2024</a>
 10. <a href="./assets/certificate-of-completion-for-product-strategy-microcertification.pdf">Product School: Product Strategy (PSC) - Jun 2024</a>
+11. <a href="https://www.credly.com/badges/2ac2a879-9bfd-4f56-9aa7-e68c15294f09/public_url">Miro: Client Collaboration - Jun 2024</a>
 <!--
 11. <a href="./assets/#.pdf">Product School: Product Launches (PRLC) - Jun 2024</a>
 12. <a href="./assets/#.pdf">Product School: Artificial Intelligence (AIC) - Jun 2024</a>
