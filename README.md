@@ -111,7 +111,7 @@ Credly account: <a href="https://www.credly.com/users/dzmitry-drepin/badges">Cre
 5. <a href="https://metaprofit.ee/ru/koolitused/stressijuhtimine/">Metaprofit: Conflict and stress management in a team (Управление конфликтами и стрессом в команде) - 2017</a>
 6. <a href="https://metaprofit.ee/ru/koolitused/labiraakimised/">Metaprofit: Technology of introducing professional negotiations (Технология введения профессиональных переговоров («Искусство ведения собраний») - 2017</a>
 7. <a href="https://www.helmes.com">Helmes AS: Recruitment and competency leader course by Raul Ennus (Helmes AS) - 2017</a>
-8. <a href="./assets/Dobry-networking.pdf">TalentDays: Dobry networking - sieci kontaktow w  poszukiwaniu pracy</a>
+8. <a href="https://dzmdre.github.io/dzmdre/assets/Dobry-networking.pdf?trk=public_profile_see-credential">TalentDays: Dobry networking - sieci kontaktow w  poszukiwaniu pracy</a>
 9. <a href="https://mnogosdelal.ru/slidecasts/dovedenie-del-do-kontsa/">Mnogosdelal: GTD - Jedi empty inbox technique or how to get things done (Джедайская техника пустого инбокса или как доводить дела до конца)  Максим Дорофеев - 2014</a>
 10. <a href="https://coursera.org/share/c5f54a79291b39e6243ede0b4b18ebf5">Google Project Management: Foundations of Project Management - Jan 2024</a>
 11. <a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=1026418">SCRUM study: Scrum Fundamentals Certified (SFC) - Apr 2024</a>
@@ -141,10 +141,10 @@ Credly account: <a href="https://www.credly.com/users/dzmitry-drepin/badges">Cre
 4. <a href="https://www.credly.com/badges/16182369-3ac5-4d64-b29e-9d4f3f1bb9e4/public_url">Pendo: AI for Product Management - May 2024</a>
 5. <a href="https://www.credly.com/badges/18b917f1-d9af-4405-9351-87863e454c12/public_url">Pendo: Product Management Basics Certification - Jun 2024</a>
 6. <a href="https://www.credly.com/badges/3effd523-077b-4ed9-8eb6-3a92a4641abb/public_url">Pendo: Digital Adoption Certification Course - Jun 2024</a>
-7. <a href="./assets/certificate-of-completion-for-product-analytics.pdf">Product School: Product Analytics - Jun 2024</a>
-8. <a href="./assets/certificate-of-completion-for-product-led-growth-micro-certificate-plg.pdf">Product School: Product-Led Growth (PLGC) - Jun 2024</a>
-9. <a href="./assets/certificate-of-completion-for-product-roadmapping-micro-certification.pdf">Product School: Product Road mapping (PRC) - Jun 2024</a>
-10. <a href="./assets/certificate-of-completion-for-product-strategy-microcertification.pdf">Product School: Product Strategy (PSC) - Jun 2024</a>
+7. <a href="https://dzmdre.github.io/dzmdre/assets/certificate-of-completion-for-product-analytics.pdf?trk=public_profile_see-credential">Product School: Product Analytics - Jun 2024</a>
+8. <a href="https://dzmdre.github.io/dzmdre/assets/certificate-of-completion-for-product-led-growth-micro-certificate-plg.pdf?trk=public_profile_see-credential">Product School: Product-Led Growth (PLGC) - Jun 2024</a>
+9. <a href="https://dzmdre.github.io/dzmdre/assets/certificate-of-completion-for-product-roadmapping-micro-certification.pdf?trk=public_profile_see-credential">Product School: Product Road mapping (PRC) - Jun 2024</a>
+10. <a href="https://dzmdre.github.io/dzmdre/assets/certificate-of-completion-for-product-strategy-microcertification.pdf?trk=public_profile_see-credential">Product School: Product Strategy (PSC) - Jun 2024</a>
 11. <a href="https://www.credly.com/badges/2ac2a879-9bfd-4f56-9aa7-e68c15294f09/public_url">Miro: Client Collaboration - Jun 2024</a>
 <!--
 11. <a href="./assets/#.pdf">Product School: Product Launches (PRLC) - Jun 2024</a>
@@ -293,7 +293,7 @@ MongoDB Essentials - Understand the Basics of MongoDB -->
 ### AI/Python/Data  Science
 1. <a href="https://www.datacamp.com/statement-of-accomplishment/course/cc8cb9f63a0ae6942f5c5310f1e45afcf737e614">Datacamp: Intermediate Python - December 2021</a>
 2. <a href="https://www.datacamp.com/statement-of-accomplishment/course/5b3eeb79705257bffbb1133a6a09a1d4fefc28e5">Datacamp: Data Manipulation with pandas - December 2021</a>
-3. <a href="./assets/Data-Science-w-Python.pdf">TalentDays: Data Science w Pythonie</a>
+3. <a href="https://dzmdre.github.io/dzmdre/assets/Data-Science-w-Python.pdf?trk=public_profile_see-credential">TalentDays: Data Science w Pythonie</a>
 4. <a href="https://credentials.databricks.com/e2c5a6e1-78b9-4309-8d86-e051bf754593">Databricks Academy Accreditation: Generative AI Fundamentals - Apr 2024</a>
 
 ### Deprecated
@@ -317,9 +317,9 @@ MongoDB Essentials - Understand the Basics of MongoDB -->
 
 ### 📣 How about an quote before you go?
 
-> I know that inner wisdom is more precious than wealth. The more you spend it, the more you gain.
+> Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Abraham Lincoln</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
