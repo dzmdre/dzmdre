@@ -317,9 +317,9 @@ MongoDB Essentials - Understand the Basics of MongoDB -->
 
 ### 📣 How about an quote before you go?
 
-> Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing.
+> What happens is not as important as how you react to what happens.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Ellen Glasgow</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
@@ -350,10 +350,7 @@ Check back at the top of the hour for a new quote!
 <a href="https://www.facebook.com/dmitry.drepin" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/drepindmitry" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/dzmdre" target="_blank">
+<a href="https://medium.com/@dzmdre" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
