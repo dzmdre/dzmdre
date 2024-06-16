@@ -8,8 +8,6 @@
     "url": "https://linktr.ee/drepin",
     "summary": "Skilled Java software engineer analyst with experience in agile software development. I have worked on various projects in different  fields from entertainment to insurance. Through my career I have been always focused on product from business as well as technical perspective making sure that development is always adding value to the final customer. I’m analytic, highly organized person, team player, able to work independently as well as in team environment and success with meeting deadlines under pressure. I’m selfmotivated,  flexible mind person with ideas and enthusiasm. Agile methodologies believer. For every moment ready to learn new tools, methodologies and techniques. I am always customer focused, interested in learning new businesses and technologies.",
     "location": {
-      "address": "ul. Broniewskiego 22/115",
-      "postalCode": "01771",
       "city": "Warsaw",
       "countryCode": "PL",
       "region": "Warsaw"
@@ -209,6 +207,14 @@
     }
   ],
   "education": [
+    {
+      "institution": "Rice University",
+      "area": "Parallel, Concurrent, and Distributed Programming in Java"
+    },
+    {
+      "institution": "University of Alberta",
+      "area": "Product Managment"
+    },
     {
       "institution": "Belarusian State University",
       "url": "https://bsu.by",
