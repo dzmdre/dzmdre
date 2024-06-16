@@ -121,15 +121,37 @@ Credly account: <a href="https://www.credly.com/users/dzmitry-drepin/badges">Cre
 15. <a href="https://www.credly.com/badges/4c60aaed-802c-4050-8acb-8ed59602f77c/public_url">PMI: Fundamentals of Agile PM Apr 2024</a>
 16. <a href="https://www.credly.com/badges/b1ace126-cba7-416c-9f68-db71c44f9e5d/public_url">PMI: Fundamentals of Predictive PM Apr 2024</a>
 17. <a href="https://www.helmes.com">Helmes AS: Estimation training by Meelis Lang 2015</a>
+<!--
+<a href="">Google Project Management:Project Initiation: Starting a Successful Project</a>
+<a href="">Google Project Management:Project Planning: Putting It All Together</a>
+<a href="">Google Project Management:Project Execution: Running the Project</a>
+<a href="">Google Project Management:Agile Project Management</a>
+<a href="">Google Project Management:Capstone: Applying Project Management in the Real World</a>
+<a href="">University of California:Initiating and Planning Projects</a>
+<a href="">University of California:Managing Project Risks and Changes</a>
+<a href="">University of California:High-Impact Business Writing</a>
+<a href="">University of California:The Art of Negotiation</a>
+<a href="">University of California:Effective Problem-Solving and Decision-Making</a>
+-->
 
 ### Product Management
 1. <a href="https://coursera.org/share/fb4f2ec4c896ac25ceee6fac5880964c">University of Alberta: Client Needs and Software Requirements - Dec 2023</a>
 2. <a href="https://coursera.org/share/7a3914ce7bb90fb52aea070e56fd317a">University of Alberta: Introduction to Software Product Management - Dec 2023</a>
 3. <a href="https://coursera.org/share/bc3b26ed6b15ede23c542e321ef636e0">University of Alberta: Software Processes and Agile Practices - Dec 2023</a>
 4. <a href="https://www.credly.com/badges/16182369-3ac5-4d64-b29e-9d4f3f1bb9e4/public_url">Pendo: AI for Product Management - May 2024</a>
+5. <a href="https://www.credly.com/badges/18b917f1-d9af-4405-9351-87863e454c12/public_url">Pendo: Product Management Basics Certification - Jun 2024</a>
+6. <a href="https://www.credly.com/badges/3effd523-077b-4ed9-8eb6-3a92a4641abb/public_url">Pendo: Digital Adoption Certification Course - Jun 2024</a>
+7. <a href="./assets/certificate-of-completion-for-product-analytics.pdf">Product School: Product Analytics - Jun 2024</a>
+8. <a href="./assets/certificate-of-completion-for-product-led-growth-micro-certificate-plg.pdf">Product School: Product-Led Growth (PLGC) - Jun 2024</a>
+9. <a href="./assets/certificate-of-completion-for-product-roadmapping-micro-certification.pdf">Product School: Product Road mapping (PRC) - Jun 2024</a>
+10. <a href="./assets/certificate-of-completion-for-product-strategy-microcertification.pdf">Product School: Product Strategy (PSC) - Jun 2024</a>
+11. <a href="https://www.credly.com/badges/2ac2a879-9bfd-4f56-9aa7-e68c15294f09/public_url">Miro: Client Collaboration - Jun 2024</a>
 <!--
-<a href="#">Pendo: Product Management Basics Certification - May 2024</a>
-<a href="#">Pendo: Digital Adoption Certification Course - May 2024</a> 
+11. <a href="./assets/#.pdf">Product School: Product Launches (PRLC) - Jun 2024</a>
+12. <a href="./assets/#.pdf">Product School: Artificial Intelligence (AIC) - Jun 2024</a>
+<a href="#">University of Alberta: Agile Planning for Software Products - Jun 2024</a>
+<a href="#">University of Alberta: Reviews & Metrics for Software Improvements - Jun 2024</a>
+<a href="#">University of Alberta: Software Product Management Capstone - Jun 2024</a> 
 -->
 
 ### Cloud:
@@ -266,20 +288,6 @@ MongoDB Essentials - Understand the Basics of MongoDB -->
 <a href="#">Kotlin</a>
 <a href="#">Web Development with Kotlin</a>
 <a href="#">Lightbend Scala Language - Professional - Apr 2024</a>
-
-<a href="">Google Project Management:Project Initiation: Starting a Successful Project</a>
-<a href="">Google Project Management:Project Planning: Putting It All Together</a>
-<a href="">Google Project Management:Project Execution: Running the Project</a>
-<a href="">Google Project Management:Agile Project Management</a>
-<a href="">Google Project Management:Capstone: Applying Project Management in the Real World</a>
-<a href="">University of California:Initiating and Planning Projects</a>
-<a href="">University of California:Managing Project Risks and Changes</a>
-<a href="">University of California:High-Impact Business Writing</a>
-<a href="">University of California:The Art of Negotiation</a>
-<a href="">University of California:Effective Problem-Solving and Decision-Making</a> 
-4. <a href="">Agile Planning for Software Products  12 hours -  2024</a>
-5. <a href="">Reviews & Metrics for Software Improvements 8 hours -  2024</a>
-6. <a href="">Software Product Management Capstone 19 hours -  2024</a> 
 -->
 
 ### AI/Python/Data  Science
@@ -309,9 +317,9 @@ MongoDB Essentials - Understand the Basics of MongoDB -->
 
 ### 📣 How about an quote before you go?
 
-> You can't blame gravity for falling in love.
+> I know that inner wisdom is more precious than wealth. The more you spend it, the more you gain.
 >
-> <p>- Albert Einstein</p>
+> <p>- Oprah Winfrey</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
