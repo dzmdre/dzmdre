@@ -309,17 +309,15 @@ MongoDB Essentials - Understand the Basics of MongoDB -->
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid.
+> All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason.
 >
-> <p>- Audre Lorde</p>
+> <p>- Immanuel Kant</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
