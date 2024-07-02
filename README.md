@@ -309,17 +309,15 @@ MongoDB Essentials - Understand the Basics of MongoDB -->
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> If I had only known, I would have been a locksmith.
+> The conditions of conquest are always easy. We have but to toil awhile, endure awhile, believe always, and never turn back.
 >
-> <p>- Albert Einstein</p>
+> <p>- Seneca the Younger</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
