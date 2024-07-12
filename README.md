@@ -15,7 +15,7 @@
 <br/> 
 
 ### ✨&nbsp; About Me
-I am a Full Stack Developer with 9+ years of experience in developing enterprise applications and open-source software. My auto-generated <a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/dzmdre/dzmdre/main/docs/index.html">CV</a>
+I am a Full Stack Developer with 9+ years of experience in developing enterprise applications and open-source software. My auto-generated <a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/dzmdre/dzmdre/main/docs/index.html&v1">CV</a>
 
 <!--
 📊 &nbsp;**This week I spent my time on**
@@ -317,9 +317,9 @@ MongoDB Essentials - Understand the Basics of MongoDB -->
 
 ### 📣 How about an quote before you go?
 
-> What happens is not as important as how you react to what happens.
+> Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind.
 >
-> <p>- Ellen Glasgow</p>
+> <p>- Henry James</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
