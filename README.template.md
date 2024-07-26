@@ -128,11 +128,37 @@ Credly account: <a href="https://www.credly.com/users/dzmitry-drepin/badges">Cre
 22. <a href="https://www.credly.com/badges/b1ace126-cba7-416c-9f68-db71c44f9e5d/public_url">PMI: Fundamentals of Predictive PM Apr 2024</a>
 23. <a href="https://www.helmes.com">Helmes AS: Estimation training by Meelis Lang 2015</a>
 <!--
+<a href="">Microsoft Project Management Professional Certificate</a>
+<a href="">Project Management Fundamentals</a>
+<a href="">Team Building and Leadership in Project Management</a>
+<a href="">Project Manager Engagement with Stakeholders</a>
+<a href="">Process Groups and Processes in Project Management</a>
+<a href="">PMP Formulas</a>
+<a href="">Project Management Principles</a>
+<a href="">Project Management Performance Domains</a>
+<a href="">Agile and Hybrid Approaches in a Project Environment</a>
+<a href="">PMP Application Process and Practice Exam</a>
+========
 <a href="">University of California:Initiating and Planning Projects</a>
 <a href="">University of California:Managing Project Risks and Changes</a>
 <a href="">University of California:High-Impact Business Writing</a>
 <a href="">University of California:The Art of Negotiation</a>
 <a href="">University of California:Effective Problem-Solving and Decision-Making</a>
+========
+Strategic Management and Innovation Specialization
+Strategic Management
+Strategy Formulation
+Strategy Implementation
+Strategic Management - Capstone Project
+
+<a href="">Business Value and Project Management Specialization</a>
+
+<a href="">Financial Accounting: Foundations</a>
+<a href="">Financial Accounting: Advanced Topics</a>
+<a href="">Designing the Organization</a>
+<a href="">Managing the Organization</a>
+<a href="">Project Initiation and Planning</a>
+<a href="">Project Execution and Control</a>
 -->
 
 ### Product Management
