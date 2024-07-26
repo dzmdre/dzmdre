@@ -142,8 +142,8 @@ Credly account: <a href="https://www.credly.com/users/dzmitry-drepin/badges">Cre
 4. <a href="https://www.credly.com/badges/16182369-3ac5-4d64-b29e-9d4f3f1bb9e4/public_url">Pendo: AI for Product Management - May 2024</a>
 5. <a href="https://www.credly.com/badges/18b917f1-d9af-4405-9351-87863e454c12/public_url">Pendo: Product Management Basics Certification - Jun 2024</a>
 6. <a href="https://www.credly.com/badges/3effd523-077b-4ed9-8eb6-3a92a4641abb/public_url">Pendo: Digital Adoption Certification Course - Jun 2024</a>
-7. <a href="https://www.credly.com/9a652235-4086-4b45-b979-38ebe34cc71a/public_url">Pendo: Product Analytics Certification - Jul 2024</a>
-8. <a href="https://www.credly.com/#/public_url">Pendo: Product-led Certification - Jul 2024</a>
+7. <a href="https://www.credly.com/badges/9a652235-4086-4b45-b979-38ebe34cc71a/public_url">Pendo: Product Analytics Certification - Jul 2024</a>
+8. <a href="https://www.credly.com/badges/cc2ec460-85a7-4440-98f8-7a8bf0b92c8b/public_url">Pendo: Product-led Certification - Jul 2024</a>
 9. <a href="https://www.credly.com/badges/6e7fb9e0-1a09-41ed-814c-e90d9263a684/public_url">Pendo: Super Certified - Jul 2024</a>
 10. <a href="https://dzmdre.github.io/dzmdre/assets/certificate-of-completion-for-product-analytics.pdf?trk=public_profile_see-credential">Product School: Product Analytics - Jun 2024</a>
 11. <a href="https://dzmdre.github.io/dzmdre/assets/certificate-of-completion-for-product-led-growth-micro-certificate-plg.pdf?trk=public_profile_see-credential">Product School: Product-Led Growth (PLGC) - Jun 2024</a>
@@ -321,9 +321,9 @@ MongoDB Essentials - Understand the Basics of MongoDB -->
 
 ### 📣 How about an quote before you go?
 
-> We gain the strength of the temptation we resist.
+> If you talk to a man in a language he understands, that goes to his head. If you talk to him in his language, that goes to his heart.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Nelson Mandela</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
