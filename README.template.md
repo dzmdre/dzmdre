@@ -114,20 +114,20 @@ Credly account: <a href="https://www.credly.com/users/dzmitry-drepin/badges">Cre
 8. <a href="https://dzmdre.github.io/dzmdre/assets/Dobry-networking.pdf?trk=public_profile_see-credential">TalentDays: Dobry networking - sieci kontaktow w  poszukiwaniu pracy</a>
 9. <a href="https://mnogosdelal.ru/slidecasts/dovedenie-del-do-kontsa/">Mnogosdelal: GTD - Jedi empty inbox technique or how to get things done (Джедайская техника пустого инбокса или как доводить дела до конца)  Максим Дорофеев - 2014</a>
 10. <a href="https://coursera.org/share/c5f54a79291b39e6243ede0b4b18ebf5">Google Project Management: Foundations of Project Management - Jan 2024</a>
-11. <a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=1026418">SCRUM study: Scrum Fundamentals Certified (SFC) - Apr 2024</a>
-12. <a href="https://www.scrumstudy.com/certification/verify?type=SODFC&number=1010797">SCRUM study: Scrum for Operations & DevOps Fundamentals Certified (SODFC) - Apr 2024</a>
-13. <a href="https://www.credly.com/badges/97237e31-1abd-47fc-b885-396a1d6a97a8/public_url">Cisco: English for IT-2 B2 / GSE 59-75 - Apr 2024</a>
-14. <a href="https://www.credly.com/badges/b196924d-d989-4c5a-abff-05c855dffea9/public_url">PMI: Generative AI for PMs Apr 2024</a>
-15. <a href="https://www.credly.com/badges/4c60aaed-802c-4050-8acb-8ed59602f77c/public_url">PMI: Fundamentals of Agile PM Apr 2024</a>
-16. <a href="https://www.credly.com/badges/b1ace126-cba7-416c-9f68-db71c44f9e5d/public_url">PMI: Fundamentals of Predictive PM Apr 2024</a>
-17. <a href="https://www.helmes.com">Helmes AS: Estimation training by Meelis Lang 2015</a>
+11. <a href="#">Google Project Management: Project Initiation: Starting a Successful Project</a>
+12. <a href="#">Google Project Management: Project Planning: Putting It All Together</a>
+13. <a href="#">Google Project Management: Project Execution: Running the Project</a>
+14. <a href="#">Google Project Management: Agile Project Management</a>
+15. <a href="#">Google Project Management: Capstone: Applying Project Management in the Real World</a>
+16. <a href="#">Google Project Management: Professional Certificate</a>
+17. <a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=1026418">SCRUM study: Scrum Fundamentals Certified (SFC) - Apr 2024</a>
+18. <a href="https://www.scrumstudy.com/certification/verify?type=SODFC&number=1010797">SCRUM study: Scrum for Operations & DevOps Fundamentals Certified (SODFC) - Apr 2024</a>
+19. <a href="https://www.credly.com/badges/97237e31-1abd-47fc-b885-396a1d6a97a8/public_url">Cisco: English for IT-2 B2 / GSE 59-75 - Apr 2024</a>
+20. <a href="https://www.credly.com/badges/b196924d-d989-4c5a-abff-05c855dffea9/public_url">PMI: Generative AI for PMs Apr 2024</a>
+21. <a href="https://www.credly.com/badges/4c60aaed-802c-4050-8acb-8ed59602f77c/public_url">PMI: Fundamentals of Agile PM Apr 2024</a>
+22. <a href="https://www.credly.com/badges/b1ace126-cba7-416c-9f68-db71c44f9e5d/public_url">PMI: Fundamentals of Predictive PM Apr 2024</a>
+23. <a href="https://www.helmes.com">Helmes AS: Estimation training by Meelis Lang 2015</a>
 <!--
-<a href="">Google Project Management:Project Initiation: Starting a Successful Project</a>
-<a href="">Google Project Management:Project Planning: Putting It All Together</a>
-<a href="">Google Project Management:Project Execution: Running the Project</a>
-<a href="">Google Project Management:Agile Project Management</a>
-<a href="">Google Project Management:Capstone: Applying Project Management in the Real World</a>
-
 <a href="">University of California:Initiating and Planning Projects</a>
 <a href="">University of California:Managing Project Risks and Changes</a>
 <a href="">University of California:High-Impact Business Writing</a>
@@ -139,23 +139,24 @@ Credly account: <a href="https://www.credly.com/users/dzmitry-drepin/badges">Cre
 1. <a href="https://coursera.org/share/fb4f2ec4c896ac25ceee6fac5880964c">University of Alberta: Client Needs and Software Requirements - Dec 2023</a>
 2. <a href="https://coursera.org/share/7a3914ce7bb90fb52aea070e56fd317a">University of Alberta: Introduction to Software Product Management - Dec 2023</a>
 3. <a href="https://coursera.org/share/bc3b26ed6b15ede23c542e321ef636e0">University of Alberta: Software Processes and Agile Practices - Dec 2023</a>
-4. <a href="https://www.credly.com/badges/16182369-3ac5-4d64-b29e-9d4f3f1bb9e4/public_url">Pendo: AI for Product Management - May 2024</a>
-5. <a href="https://www.credly.com/badges/18b917f1-d9af-4405-9351-87863e454c12/public_url">Pendo: Product Management Basics Certification - Jun 2024</a>
-6. <a href="https://www.credly.com/badges/3effd523-077b-4ed9-8eb6-3a92a4641abb/public_url">Pendo: Digital Adoption Certification Course - Jun 2024</a>
-7. <a href="https://www.credly.com/badges/9a652235-4086-4b45-b979-38ebe34cc71a/public_url">Pendo: Product Analytics Certification - Jul 2024</a>
-8. <a href="https://www.credly.com/badges/cc2ec460-85a7-4440-98f8-7a8bf0b92c8b/public_url">Pendo: Product-led Certification - Jul 2024</a>
-9. <a href="https://www.credly.com/badges/6e7fb9e0-1a09-41ed-814c-e90d9263a684/public_url">Pendo: Super Certified - Jul 2024</a>
-10. <a href="https://dzmdre.github.io/dzmdre/assets/certificate-of-completion-for-product-analytics.pdf?trk=public_profile_see-credential">Product School: Product Analytics - Jun 2024</a>
-11. <a href="https://dzmdre.github.io/dzmdre/assets/certificate-of-completion-for-product-led-growth-micro-certificate-plg.pdf?trk=public_profile_see-credential">Product School: Product-Led Growth (PLGC) - Jun 2024</a>
-12. <a href="https://dzmdre.github.io/dzmdre/assets/certificate-of-completion-for-product-roadmapping-micro-certification.pdf?trk=public_profile_see-credential">Product School: Product Road mapping (PRC) - Jun 2024</a>
-13. <a href="https://dzmdre.github.io/dzmdre/assets/certificate-of-completion-for-product-strategy-microcertification.pdf?trk=public_profile_see-credential">Product School: Product Strategy (PSC) - Jun 2024</a>
-14. <a href="https://www.credly.com/badges/2ac2a879-9bfd-4f56-9aa7-e68c15294f09/public_url">Miro: Client Collaboration - Jun 2024</a>
+4. <a href="https://coursera.org/share/73af71ea82217becea53d9b2aad85cae">University of Alberta: Agile Planning for Software Products - Jul 2024</a>
+5. <a href="https://coursera.org/share/aa8cb326df598ef39b2c2d9a599b8138">University of Alberta: Reviews & Metrics for Software Improvements</a>
+6. <a href="#">University of Alberta: Software Product Management Capstone</a>
+7. <a href="#">University of Alberta: Software Product Management Specialization</a>
+8. <a href="https://www.credly.com/badges/16182369-3ac5-4d64-b29e-9d4f3f1bb9e4/public_url">Pendo: AI for Product Management - May 2024</a>
+9. <a href="https://www.credly.com/badges/18b917f1-d9af-4405-9351-87863e454c12/public_url">Pendo: Product Management Basics Certification - Jun 2024</a>
+10. <a href="https://www.credly.com/badges/3effd523-077b-4ed9-8eb6-3a92a4641abb/public_url">Pendo: Digital Adoption Certification Course - Jun 2024</a>
+11. <a href="https://www.credly.com/badges/9a652235-4086-4b45-b979-38ebe34cc71a/public_url">Pendo: Product Analytics Certification - Jul 2024</a>
+12. <a href="https://www.credly.com/badges/cc2ec460-85a7-4440-98f8-7a8bf0b92c8b/public_url">Pendo: Product-led Certification - Jul 2024</a>
+13. <a href="https://www.credly.com/badges/6e7fb9e0-1a09-41ed-814c-e90d9263a684/public_url">Pendo: Super Certified - Jul 2024</a>
+14. <a href="https://dzmdre.github.io/dzmdre/assets/certificate-of-completion-for-product-analytics.pdf?trk=public_profile_see-credential">Product School: Product Analytics - Jun 2024</a>
+15. <a href="https://dzmdre.github.io/dzmdre/assets/certificate-of-completion-for-product-led-growth-micro-certificate-plg.pdf?trk=public_profile_see-credential">Product School: Product-Led Growth (PLGC) - Jun 2024</a>
+16. <a href="https://dzmdre.github.io/dzmdre/assets/certificate-of-completion-for-product-roadmapping-micro-certification.pdf?trk=public_profile_see-credential">Product School: Product Road mapping (PRC) - Jun 2024</a>
+17. <a href="https://dzmdre.github.io/dzmdre/assets/certificate-of-completion-for-product-strategy-microcertification.pdf?trk=public_profile_see-credential">Product School: Product Strategy (PSC) - Jun 2024</a>
+18. <a href="https://www.credly.com/badges/2ac2a879-9bfd-4f56-9aa7-e68c15294f09/public_url">Miro: Client Collaboration - Jun 2024</a>
 <!--
 11. <a href="./assets/#.pdf">Product School: Product Launches (PRLC) - Jun 2024</a>
 12. <a href="./assets/#.pdf">Product School: Artificial Intelligence (AIC) - Jun 2024</a>
-<a href="#">University of Alberta: Agile Planning for Software Products - Jun 2024</a>
-<a href="#">University of Alberta: Reviews & Metrics for Software Improvements - Jun 2024</a>
-<a href="#">University of Alberta: Software Product Management Capstone - Jun 2024</a> 
 -->
 
 ### Cloud:
