@@ -169,7 +169,7 @@ Strategic Management - Capstone Project
 4. <a href="https://coursera.org/share/73af71ea82217becea53d9b2aad85cae">University of Alberta: Agile Planning for Software Products - Jul 2024</a>
 5. <a href="https://coursera.org/share/aa8cb326df598ef39b2c2d9a599b8138">University of Alberta: Reviews & Metrics for Software Improvements</a>
 6. <a href="#">University of Alberta: Software Product Management Capstone</a>
-7. <a href="#">University of Alberta: Software Product Management Specialization</a>
+7. <a href="https://www.coursera.org/account/accomplishments/specialization/L22LVGXEO7H4">University of Alberta: Software Product Management Specialization - Aug 2024</a>
 8. <a href="https://www.credly.com/badges/16182369-3ac5-4d64-b29e-9d4f3f1bb9e4/public_url">Pendo: AI for Product Management - May 2024</a>
 9. <a href="https://www.credly.com/badges/18b917f1-d9af-4405-9351-87863e454c12/public_url">Pendo: Product Management Basics Certification - Jun 2024</a>
 10. <a href="https://www.credly.com/badges/3effd523-077b-4ed9-8eb6-3a92a4641abb/public_url">Pendo: Digital Adoption Certification Course - Jun 2024</a>
