@@ -341,17 +341,15 @@ MongoDB Essentials - Understand the Basics of MongoDB -->
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> Do not go where the path may lead, go instead where there is no path and leave a trail.
+> Cherish your visions and your dreams as they are the children of your soul; the blueprints of your ultimate achievements.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Napoleon Hill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
