@@ -341,17 +341,15 @@ MongoDB Essentials - Understand the Basics of MongoDB -->
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> To be beautiful means to be yourself. You don't need to be accepted by others. You need to accept yourself.
+> Don't turn away from possible futures before you're certain you don't have anything to learn from them.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Richard Bach</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
