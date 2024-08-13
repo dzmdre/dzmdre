@@ -341,17 +341,15 @@ MongoDB Essentials - Understand the Basics of MongoDB -->
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> In complete darkness we are all the same, it is only our knowledge and wisdom that separates us, don't let your eyes deceive you.
+> Great minds discuss ideas; average minds discuss events; small minds discuss people.
 >
-> <p>- Janet Jackson</p>
+> <p>- Eleanor Roosevelt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
