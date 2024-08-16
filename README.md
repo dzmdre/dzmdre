@@ -106,27 +106,28 @@ Credly account: <a href="https://www.credly.com/users/dzmitry-drepin/badges">Cre
 
 1. <a href="https://stratoplan-school.com/team/">Managers school Stratoplan: Team Lead course - 2018</a>
 2. <a href="https://stratoplan-school.com/cert/teamlead201/2024/Dzmitry_Drepin.pdf">Managers school Stratoplan: Team Lead 201 course - Jan-2024</a>
-3. <a href="https://www.helmes.com/">Helmes AS: Recruitment and competency leader course by Raul Ennus (CTO) - 2017</a>
-4. <a href="https://metaprofit.ee/ru/koolitused/juhtimine/juhi-arenguprogramm/#1493302883883-b38364a6-b958">Metaprofit: Competency conversations (Беседы по компетенциям) - 2017</a>
-5. <a href="https://metaprofit.ee/ru/koolitused/stressijuhtimine/">Metaprofit: Conflict and stress management in a team (Управление конфликтами и стрессом в команде) - 2017</a>
-6. <a href="https://metaprofit.ee/ru/koolitused/labiraakimised/">Metaprofit: Technology of introducing professional negotiations (Технология введения профессиональных переговоров («Искусство ведения собраний») - 2017</a>
-7. <a href="https://www.helmes.com">Helmes AS: Recruitment and competency leader course by Raul Ennus (Helmes AS) - 2017</a>
-8. <a href="https://dzmdre.github.io/dzmdre/assets/Dobry-networking.pdf?trk=public_profile_see-credential">TalentDays: Dobry networking - sieci kontaktow w  poszukiwaniu pracy</a>
-9. <a href="https://mnogosdelal.ru/slidecasts/dovedenie-del-do-kontsa/">Mnogosdelal: GTD - Jedi empty inbox technique or how to get things done (Джедайская техника пустого инбокса или как доводить дела до конца)  Максим Дорофеев - 2014</a>
-10. <a href="https://coursera.org/share/c5f54a79291b39e6243ede0b4b18ebf5">Google Project Management: Foundations of Project Management - Jan 2024</a>
-11. <a href="#">Google Project Management: Project Initiation: Starting a Successful Project</a>
-12. <a href="#">Google Project Management: Project Planning: Putting It All Together</a>
-13. <a href="#">Google Project Management: Project Execution: Running the Project</a>
-14. <a href="#">Google Project Management: Agile Project Management</a>
-15. <a href="#">Google Project Management: Capstone: Applying Project Management in the Real World</a>
-16. <a href="#">Google Project Management: Professional Certificate</a>
-17. <a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=1026418">SCRUM study: Scrum Fundamentals Certified (SFC) - Apr 2024</a>
-18. <a href="https://www.scrumstudy.com/certification/verify?type=SODFC&number=1010797">SCRUM study: Scrum for Operations & DevOps Fundamentals Certified (SODFC) - Apr 2024</a>
-19. <a href="https://www.credly.com/badges/97237e31-1abd-47fc-b885-396a1d6a97a8/public_url">Cisco: English for IT-2 B2 / GSE 59-75 - Apr 2024</a>
-20. <a href="https://www.credly.com/badges/b196924d-d989-4c5a-abff-05c855dffea9/public_url">PMI: Generative AI for PMs Apr 2024</a>
-21. <a href="https://www.credly.com/badges/4c60aaed-802c-4050-8acb-8ed59602f77c/public_url">PMI: Fundamentals of Agile PM Apr 2024</a>
-22. <a href="https://www.credly.com/badges/b1ace126-cba7-416c-9f68-db71c44f9e5d/public_url">PMI: Fundamentals of Predictive PM Apr 2024</a>
-23. <a href="https://www.helmes.com">Helmes AS: Estimation training by Meelis Lang 2015</a>
+3. <a href="https://stratoplan-school.com/cert/university/2024/conflicts/Dzmitry_Drepin.pdf">Successfully completed "Open Stratoplan University of Conflict Management" (July  2024)</a>
+4. <a href="https://www.helmes.com/">Helmes AS: Recruitment and competency leader course by Raul Ennus (CTO) - 2017</a>
+5. <a href="https://metaprofit.ee/ru/koolitused/juhtimine/juhi-arenguprogramm/#1493302883883-b38364a6-b958">Metaprofit: Competency conversations (Беседы по компетенциям) - 2017</a>
+6. <a href="https://metaprofit.ee/ru/koolitused/stressijuhtimine/">Metaprofit: Conflict and stress management in a team (Управление конфликтами и стрессом в команде) - 2017</a>
+7. <a href="https://metaprofit.ee/ru/koolitused/labiraakimised/">Metaprofit: Technology of introducing professional negotiations (Технология введения профессиональных переговоров («Искусство ведения собраний») - 2017</a>
+8. <a href="https://www.helmes.com">Helmes AS: Recruitment and competency leader course by Raul Ennus (Helmes AS) - 2017</a>
+9. <a href="https://dzmdre.github.io/dzmdre/assets/Dobry-networking.pdf?trk=public_profile_see-credential">TalentDays: Dobry networking - sieci kontaktow w  poszukiwaniu pracy</a>
+10. <a href="https://mnogosdelal.ru/slidecasts/dovedenie-del-do-kontsa/">Mnogosdelal: GTD - Jedi empty inbox technique or how to get things done (Джедайская техника пустого инбокса или как доводить дела до конца)  Максим Дорофеев - 2014</a>
+11. <a href="https://coursera.org/share/c5f54a79291b39e6243ede0b4b18ebf5">Google Project Management: Foundations of Project Management - Jan 2024</a>
+12. <a href="#">Google Project Management: Project Initiation: Starting a Successful Project</a>
+13. <a href="#">Google Project Management: Project Planning: Putting It All Together</a>
+14. <a href="#">Google Project Management: Project Execution: Running the Project</a>
+15. <a href="#">Google Project Management: Agile Project Management</a>
+16. <a href="#">Google Project Management: Capstone: Applying Project Management in the Real World</a>
+17. <a href="#">Google Project Management: Professional Certificate</a>
+18. <a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=1026418">SCRUM study: Scrum Fundamentals Certified (SFC) - Apr 2024</a>
+19. <a href="https://www.scrumstudy.com/certification/verify?type=SODFC&number=1010797">SCRUM study: Scrum for Operations & DevOps Fundamentals Certified (SODFC) - Apr 2024</a>
+20. <a href="https://www.credly.com/badges/97237e31-1abd-47fc-b885-396a1d6a97a8/public_url">Cisco: English for IT-2 B2 / GSE 59-75 - Apr 2024</a>
+21. <a href="https://www.credly.com/badges/b196924d-d989-4c5a-abff-05c855dffea9/public_url">PMI: Generative AI for PMs Apr 2024</a>
+22. <a href="https://www.credly.com/badges/4c60aaed-802c-4050-8acb-8ed59602f77c/public_url">PMI: Fundamentals of Agile PM Apr 2024</a>
+23. <a href="https://www.credly.com/badges/b1ace126-cba7-416c-9f68-db71c44f9e5d/public_url">PMI: Fundamentals of Predictive PM Apr 2024</a>
+24. <a href="https://www.helmes.com">Helmes AS: Estimation training by Meelis Lang 2015</a>
 <!--
 <a href="">Microsoft Project Management Professional Certificate</a>
 <a href="">Project Management Fundamentals</a>
@@ -168,7 +169,7 @@ Strategic Management - Capstone Project
 4. <a href="https://coursera.org/share/73af71ea82217becea53d9b2aad85cae">University of Alberta: Agile Planning for Software Products - Jul 2024</a>
 5. <a href="https://coursera.org/share/aa8cb326df598ef39b2c2d9a599b8138">University of Alberta: Reviews & Metrics for Software Improvements</a>
 6. <a href="#">University of Alberta: Software Product Management Capstone</a>
-7. <a href="#">University of Alberta: Software Product Management Specialization</a>
+7. <a href="https://www.coursera.org/account/accomplishments/specialization/L22LVGXEO7H4">University of Alberta: Software Product Management Specialization - Aug 2024</a>
 8. <a href="https://www.credly.com/badges/16182369-3ac5-4d64-b29e-9d4f3f1bb9e4/public_url">Pendo: AI for Product Management - May 2024</a>
 9. <a href="https://www.credly.com/badges/18b917f1-d9af-4405-9351-87863e454c12/public_url">Pendo: Product Management Basics Certification - Jun 2024</a>
 10. <a href="https://www.credly.com/badges/3effd523-077b-4ed9-8eb6-3a92a4641abb/public_url">Pendo: Digital Adoption Certification Course - Jun 2024</a>
@@ -348,9 +349,9 @@ MongoDB Essentials - Understand the Basics of MongoDB -->
 
 ### 📣 How about an quote before you go?
 
-> When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.
+> A true friend is the most precious of all possessions and the one we take the least thought about acquiring.
 >
-> <p>- Helen Keller</p>
+> <p>- François de La Rochefoucauld</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
