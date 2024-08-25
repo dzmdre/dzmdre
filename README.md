@@ -341,17 +341,15 @@ MongoDB Essentials - Understand the Basics of MongoDB -->
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> Dreams come true. Without that possibility, nature would not incite us to have them.
+> Never explain - your friends do not need it and your enemies will not believe you anyway.
 >
-> <p>- John Updike</p>
+> <p>- Elbert Hubbard</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
