@@ -341,17 +341,15 @@ MongoDB Essentials - Understand the Basics of MongoDB -->
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> Doing nothing is better than being busy doing nothing.
+> If you don't design your own life plan, chances are you'll fall into someone else's plan. And guess what they have planned for you? Not much.
 >
-> <p>- Laozi</p>
+> <p>- Jim Rohn</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
