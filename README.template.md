@@ -242,6 +242,7 @@ Strategic Management - Capstone Project
 53. <a href="https://www.credly.com/badges/1cd8c429-75c5-44da-90cc-398a062ab1ee/public_url">Google Cloud: Deploy Kubernetes Applications on Google Cloud Skill Badge</a>
 54. <a href="https://www.credly.com/badges/9976a927-c1df-4461-b5c2-4b1f30293c45/public_url">Google Cloud: Set Up a Google Cloud Network Skill Badge</a>
 55. <a href="https://www.credly.com/badges/26a79f26-7a71-45c1-939c-bf6b15f55b5a/public_url">Google Cloud: Develop Serverless Applications on Cloud Run Skill Badge</a>
+56. <a href="https://www.credly.com/badges/12f73fc2-19ae-4eb2-ac79-b157fab3ab2c/public_url">Google Cloud: Build a Secure Google Cloud Network</a>
 <!-- AWS Serverless REST APIs for Java Developers. CI/CD included -->
 
 ### Kubernetes:
