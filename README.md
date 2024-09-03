@@ -341,17 +341,15 @@ MongoDB Essentials - Understand the Basics of MongoDB -->
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> Be not angry that you cannot make others as you wish them to be, since you cannot make yourself as you wish to be.
+> Wisdom is the right use of knowledge. To know is not to be wise. Many men know a great deal and are all the greater fools for it. There is no fool so great a fool as a knowing fool. But to know how to use knowledge is to have wisdom.
 >
-> <p>- Thomas à Kempis</p>
+> <p>- Charles Spurgeon</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
