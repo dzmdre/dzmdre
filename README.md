@@ -341,17 +341,15 @@ MongoDB Essentials - Understand the Basics of MongoDB -->
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> In skating over thin ice our safety is in our speed.
+> I'm not interested in age. People who tell me their age are silly. You're as old as you feel.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Elizabeth Arden</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
