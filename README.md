@@ -341,17 +341,15 @@ MongoDB Essentials - Understand the Basics of MongoDB -->
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> The hours of folly are measured by the clock; but of wisdom, no clock can measure.
+> We must reach out our hand in friendship and dignity both to those who would befriend us and those who would be our enemy.
 >
-> <p>- William Blake</p>
+> <p>- Arthur Ashe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
