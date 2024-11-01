@@ -349,9 +349,9 @@ MongoDB Essentials - Understand the Basics of MongoDB -->
 
 ### 📣 How about an quote before you go?
 
-> A true friend is the most precious of all possessions and the one we take the least thought about acquiring.
+> For everything that lives is holy, life delights in life.
 >
-> <p>- François de La Rochefoucauld</p>
+> <p>- William Blake</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
