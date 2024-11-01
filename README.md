@@ -115,10 +115,10 @@ Credly account: <a href="https://www.credly.com/users/dzmitry-drepin/badges">Cre
 9. <a href="https://dzmdre.github.io/dzmdre/assets/Dobry-networking.pdf?trk=public_profile_see-credential">TalentDays: Dobry networking - sieci kontaktow w  poszukiwaniu pracy</a>
 10. <a href="https://mnogosdelal.ru/slidecasts/dovedenie-del-do-kontsa/">Mnogosdelal: GTD - Jedi empty inbox technique or how to get things done (Джедайская техника пустого инбокса или как доводить дела до конца)  Максим Дорофеев - 2014</a>
 11. <a href="https://coursera.org/share/c5f54a79291b39e6243ede0b4b18ebf5">Google Project Management: Foundations of Project Management - Jan 2024</a>
-12. <a href="#">Google Project Management: Project Initiation: Starting a Successful Project</a>
-13. <a href="#">Google Project Management: Project Planning: Putting It All Together</a>
+12. <a href="https://coursera.org/share/cae13dbed479fa754e7b0bff8e55763d">Google Project Management: Project Initiation: Starting a Successful Project</a>
+13. <a href="https://coursera.org/share/9692fbd88756585f30934fd74ec5272d">Google Project Management: Project Planning: Putting It All Together</a>
 14. <a href="#">Google Project Management: Project Execution: Running the Project</a>
-15. <a href="#">Google Project Management: Agile Project Management</a>
+15. <a href="https://coursera.org/share/f84211074f757fa5c1159e5821fb3357">Google Project Management: Agile Project Management</a>
 16. <a href="#">Google Project Management: Capstone: Applying Project Management in the Real World</a>
 17. <a href="#">Google Project Management: Professional Certificate</a>
 18. <a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=1026418">SCRUM study: Scrum Fundamentals Certified (SFC) - Apr 2024</a>
@@ -242,6 +242,7 @@ Strategic Management - Capstone Project
 53. <a href="https://www.credly.com/badges/1cd8c429-75c5-44da-90cc-398a062ab1ee/public_url">Google Cloud: Deploy Kubernetes Applications on Google Cloud Skill Badge</a>
 54. <a href="https://www.credly.com/badges/9976a927-c1df-4461-b5c2-4b1f30293c45/public_url">Google Cloud: Set Up a Google Cloud Network Skill Badge</a>
 55. <a href="https://www.credly.com/badges/26a79f26-7a71-45c1-939c-bf6b15f55b5a/public_url">Google Cloud: Develop Serverless Applications on Cloud Run Skill Badge</a>
+56. <a href="https://www.credly.com/badges/12f73fc2-19ae-4eb2-ac79-b157fab3ab2c/public_url">Google Cloud: Build a Secure Google Cloud Network</a>
 <!-- AWS Serverless REST APIs for Java Developers. CI/CD included -->
 
 ### Kubernetes:
@@ -341,17 +342,15 @@ MongoDB Essentials - Understand the Basics of MongoDB -->
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> For everything that lives is holy, life delights in life.
+> Where is the Life we have lost in living? Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?
 >
-> <p>- William Blake</p>
+> <p>- George Eliot</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
