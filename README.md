@@ -302,6 +302,9 @@ Strategic Management - Capstone Project
 ### German
 1. <a href="https://www.goethe.de/">Goethe-Institut: Teilnahmebestätigung Goethe-Institut A2 - 2017</a>
 2. <a href="https://www.goethe.de/">Goethe-Zertifikat A1 SD1 - December - 2016</a>
+
+### Polish
+1. <a href="https://dzmdre.github.io/dzmdre/assets/certificate-of-polish-b1.pdf?trk=public_profile_see-credential">Certificate Polish Language B1 - 2024</a>
 <!--
 SQL/NoSQL
 SQL and PostgreSQL: The Complete Developer's Guide
@@ -350,9 +353,9 @@ MongoDB Essentials - Understand the Basics of MongoDB -->
 
 ### 📣 How about an quote before you go?
 
-> Wisdom has never made a bigot, but learning has.
+> Nine-tenths of wisdom is being wise in time.
 >
-> <p>- Josh Billings</p>
+> <p>- Theodore Roosevelt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
