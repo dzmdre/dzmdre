@@ -353,9 +353,9 @@ MongoDB Essentials - Understand the Basics of MongoDB -->
 
 ### 📣 How about an quote before you go?
 
-> Nine-tenths of wisdom is being wise in time.
+> It is good even for old men to learn wisdom.
 >
-> <p>- Theodore Roosevelt</p>
+> <p>- Aeschylus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
