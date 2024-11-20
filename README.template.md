@@ -119,8 +119,9 @@ Credly account: <a href="https://www.credly.com/users/dzmitry-drepin/badges">Cre
 13. <a href="https://coursera.org/share/9692fbd88756585f30934fd74ec5272d">Google Project Management: Project Planning: Putting It All Together - Oct 2024</a>
 14. <a href="https://coursera.org/share/e5ef5c821eca03c6584ca04ec279a208">Google Project Management: Project Execution: Running the Project - Nov 2024</a>
 15. <a href="https://coursera.org/share/f84211074f757fa5c1159e5821fb3357">Google Project Management: Agile Project Management - Nov 2024</a>
-16. <a href="https://coursera.org/share/ce57a5c1a0fd899c8ab14c4fecfccd7e">Google Project Management: Capstone: Applying Project Management in the Real World</a>
-17. <a href="https://coursera.org/share/baa25e209273267a209bd8d4acecc7a9">Google Project Management: Professional Certificate</a>
+16. <a href="https://coursera.org/share/ce57a5c1a0fd899c8ab14c4fecfccd7e">Google Project Management: Capstone: Applying Project Management in the Real World - Nov 2024</a>
+17. <a href="https://coursera.org/share/baa25e209273267a209bd8d4acecc7a9">Google Project Management: Professional Certificate - Nov 2024</a>
+17. <a href="#">Google Project Management Credly badge - Nov 2024</a>
 18. <a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=1026418">SCRUM study: Scrum Fundamentals Certified (SFC) - Apr 2024</a>
 19. <a href="https://www.scrumstudy.com/certification/verify?type=SODFC&number=1010797">SCRUM study: Scrum for Operations & DevOps Fundamentals Certified (SODFC) - Apr 2024</a>
 20. <a href="https://www.credly.com/badges/97237e31-1abd-47fc-b885-396a1d6a97a8/public_url">Cisco: English for IT-2 B2 / GSE 59-75 - Apr 2024</a>
