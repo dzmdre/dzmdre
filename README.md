@@ -115,12 +115,13 @@ Credly account: <a href="https://www.credly.com/users/dzmitry-drepin/badges">Cre
 9. <a href="https://dzmdre.github.io/dzmdre/assets/Dobry-networking.pdf?trk=public_profile_see-credential">TalentDays: Dobry networking - sieci kontaktow w  poszukiwaniu pracy</a>
 10. <a href="https://mnogosdelal.ru/slidecasts/dovedenie-del-do-kontsa/">Mnogosdelal: GTD - Jedi empty inbox technique or how to get things done (Джедайская техника пустого инбокса или как доводить дела до конца)  Максим Дорофеев - 2014</a>
 11. <a href="https://coursera.org/share/c5f54a79291b39e6243ede0b4b18ebf5">Google Project Management: Foundations of Project Management - Jan 2024</a>
-12. <a href="https://coursera.org/share/cae13dbed479fa754e7b0bff8e55763d">Google Project Management: Project Initiation: Starting a Successful Project</a>
-13. <a href="https://coursera.org/share/9692fbd88756585f30934fd74ec5272d">Google Project Management: Project Planning: Putting It All Together</a>
-14. <a href="https://coursera.org/share/e5ef5c821eca03c6584ca04ec279a208">Google Project Management: Project Execution: Running the Project</a>
-15. <a href="https://coursera.org/share/f84211074f757fa5c1159e5821fb3357">Google Project Management: Agile Project Management</a>
-16. <a href="#">Google Project Management: Capstone: Applying Project Management in the Real World</a>
-17. <a href="#">Google Project Management: Professional Certificate</a>
+12. <a href="https://coursera.org/share/cae13dbed479fa754e7b0bff8e55763d">Google Project Management: Project Initiation: Starting a Successful Project - Oct 2024</a>
+13. <a href="https://coursera.org/share/9692fbd88756585f30934fd74ec5272d">Google Project Management: Project Planning: Putting It All Together - Oct 2024</a>
+14. <a href="https://coursera.org/share/e5ef5c821eca03c6584ca04ec279a208">Google Project Management: Project Execution: Running the Project - Nov 2024</a>
+15. <a href="https://coursera.org/share/f84211074f757fa5c1159e5821fb3357">Google Project Management: Agile Project Management - Nov 2024</a>
+16. <a href="https://coursera.org/share/ce57a5c1a0fd899c8ab14c4fecfccd7e">Google Project Management: Capstone: Applying Project Management in the Real World - Nov 2024</a>
+17. <a href="https://coursera.org/share/baa25e209273267a209bd8d4acecc7a9">Google Project Management: Professional Certificate - Nov 2024</a>
+17. <a href="#">Google Project Management Credly badge - Nov 2024</a>
 18. <a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=1026418">SCRUM study: Scrum Fundamentals Certified (SFC) - Apr 2024</a>
 19. <a href="https://www.scrumstudy.com/certification/verify?type=SODFC&number=1010797">SCRUM study: Scrum for Operations & DevOps Fundamentals Certified (SODFC) - Apr 2024</a>
 20. <a href="https://www.credly.com/badges/97237e31-1abd-47fc-b885-396a1d6a97a8/public_url">Cisco: English for IT-2 B2 / GSE 59-75 - Apr 2024</a>
@@ -345,17 +346,15 @@ MongoDB Essentials - Understand the Basics of MongoDB -->
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> Learning is finding out what you already know.
+> It is a miracle that curiosity survives formal education.
 >
-> <p>- Richard Bach</p>
+> <p>- Albert Einstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
