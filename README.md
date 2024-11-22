@@ -117,7 +117,7 @@ Credly account: <a href="https://www.credly.com/users/dzmitry-drepin/badges">Cre
 11. <a href="https://coursera.org/share/c5f54a79291b39e6243ede0b4b18ebf5">Google Project Management: Foundations of Project Management - Jan 2024</a>
 12. <a href="https://coursera.org/share/cae13dbed479fa754e7b0bff8e55763d">Google Project Management: Project Initiation: Starting a Successful Project</a>
 13. <a href="https://coursera.org/share/9692fbd88756585f30934fd74ec5272d">Google Project Management: Project Planning: Putting It All Together</a>
-14. <a href="#">Google Project Management: Project Execution: Running the Project</a>
+14. <a href="https://coursera.org/share/e5ef5c821eca03c6584ca04ec279a208">Google Project Management: Project Execution: Running the Project</a>
 15. <a href="https://coursera.org/share/f84211074f757fa5c1159e5821fb3357">Google Project Management: Agile Project Management</a>
 16. <a href="#">Google Project Management: Capstone: Applying Project Management in the Real World</a>
 17. <a href="#">Google Project Management: Professional Certificate</a>
@@ -345,17 +345,15 @@ MongoDB Essentials - Understand the Basics of MongoDB -->
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> It is good even for old men to learn wisdom.
+> Learning is finding out what you already know.
 >
-> <p>- Aeschylus</p>
+> <p>- Richard Bach</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
