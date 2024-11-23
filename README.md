@@ -121,7 +121,7 @@ Credly account: <a href="https://www.credly.com/users/dzmitry-drepin/badges">Cre
 15. <a href="https://coursera.org/share/f84211074f757fa5c1159e5821fb3357">Google Project Management: Agile Project Management - Nov 2024</a>
 16. <a href="https://coursera.org/share/ce57a5c1a0fd899c8ab14c4fecfccd7e">Google Project Management: Capstone: Applying Project Management in the Real World - Nov 2024</a>
 17. <a href="https://coursera.org/share/baa25e209273267a209bd8d4acecc7a9">Google Project Management: Professional Certificate - Nov 2024</a>
-17. <a href="#">Google Project Management Credly badge - Nov 2024</a>
+17. <a href="https://www.credly.com/badges/ba611541-803b-41d0-a87e-16677b5e507f/public_url">Google Project Management Credly badge - Nov 2024</a>
 18. <a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=1026418">SCRUM study: Scrum Fundamentals Certified (SFC) - Apr 2024</a>
 19. <a href="https://www.scrumstudy.com/certification/verify?type=SODFC&number=1010797">SCRUM study: Scrum for Operations & DevOps Fundamentals Certified (SODFC) - Apr 2024</a>
 20. <a href="https://www.credly.com/badges/97237e31-1abd-47fc-b885-396a1d6a97a8/public_url">Cisco: English for IT-2 B2 / GSE 59-75 - Apr 2024</a>
@@ -346,17 +346,15 @@ MongoDB Essentials - Understand the Basics of MongoDB -->
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> It is a miracle that curiosity survives formal education.
+> A good decision is based on knowledge and not on numbers.
 >
-> <p>- Albert Einstein</p>
+> <p>- Plato</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
