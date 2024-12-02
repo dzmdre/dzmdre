@@ -362,9 +362,9 @@ MongoDB Essentials - Understand the Basics of MongoDB -->
 
 ### 📣 How about an quote before you go?
 
-> The most certain sign of wisdom is cheerfulness.
+> Wisdom is a kind of knowledge. It is knowledge of the nature, career, and consequences of human values.
 >
-> <p>- Michel de Montaigne</p>
+> <p>- Sidney Hook</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
