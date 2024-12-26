@@ -129,6 +129,12 @@ Credly account: <a href="https://www.credly.com/users/dzmitry-drepin/badges">Cre
 22. <a href="https://www.credly.com/badges/4c60aaed-802c-4050-8acb-8ed59602f77c/public_url">PMI: Fundamentals of Agile PM Apr 2024</a>
 23. <a href="https://www.credly.com/badges/b1ace126-cba7-416c-9f68-db71c44f9e5d/public_url">PMI: Fundamentals of Predictive PM Apr 2024</a>
 24. <a href="https://www.helmes.com">Helmes AS: Estimation training by Meelis Lang 2015</a>
+<!-- 
+25. <a href="#">Scrum.org - PSM I - </a>
+26. <a href="#">Scrum.org - PSM II - </a>
+27. <a href="#">Scrum.org - PSPO I - </a>
+28. <a href="#">Scrum.org - PSPO II - </a>  
+-->
 <!--
 <a href="">Microsoft Project Management Professional Certificate</a>
 <a href="">Project Management Fundamentals</a>
@@ -244,6 +250,10 @@ Strategic Management - Capstone Project
 54. <a href="https://www.credly.com/badges/9976a927-c1df-4461-b5c2-4b1f30293c45/public_url">Google Cloud: Set Up a Google Cloud Network Skill Badge</a>
 55. <a href="https://www.credly.com/badges/26a79f26-7a71-45c1-939c-bf6b15f55b5a/public_url">Google Cloud: Develop Serverless Applications on Cloud Run Skill Badge</a>
 56. <a href="https://www.credly.com/badges/12f73fc2-19ae-4eb2-ac79-b157fab3ab2c/public_url">Google Cloud: Build a Secure Google Cloud Network</a>
+<!--
+57. <a href="#">Google Associate Cloud Engineer - </a>
+58. <a href="#">Google Professional Cloud Architect - </a>
+-->
 <!-- AWS Serverless REST APIs for Java Developers. CI/CD included -->
 
 ### Kubernetes:
@@ -354,9 +364,9 @@ MongoDB Essentials - Understand the Basics of MongoDB -->
 
 ### 📣 How about an quote before you go?
 
-> Where there is charity and wisdom, there is neither fear nor ignorance.
+> In wisdom gathered over time I have found that every experience is a form of exploration.
 >
-> <p>- Francis of Assisi</p>
+> <p>- Ansel Adams</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
