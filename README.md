@@ -7,7 +7,7 @@
 ### <div align="center">I'm Dmitry, a full-time full-stack developer 👨‍💻</div>
 - 🔭&nbsp; I’m currently working on variety of projects mostly in Java stack :wink:
 - 🌱&nbsp; I’m currently learning System design, PM, Spring event-driven microservices, cloud & Machine Learning & Ai
-- 💬&nbsp; Ask me about anything related to Java and AEM stacks and related technologies
+- 💬&nbsp; Ask me about anything related to Java and AEM, Cloud stacks and related technologies
 - 😄&nbsp; Pronouns: He/Him
 - 📫&nbsp; How to reach me: <a href="https://linkedin.com/in/dmitry-drepin-77107336">Linkedin</a> or <a href="https://discordapp.com/users/546374141100425228/">Discord</a>
 - ⚡ &nbsp; Fun fact: I :heart: :dog:s and cute animals.
@@ -15,7 +15,9 @@
 <br/> 
 
 ### ✨&nbsp; About Me
-I am a Full Stack Developer with 9+ years of experience in developing enterprise applications and open-source software. My auto-generated <a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/dzmdre/dzmdre/main/docs/index.html&v1">CV</a>
+Hello, my name is Dmitry, I am a Technical Java Lead Engineer with more than 13 years of experience in these areas: media (+streaming), entertainment,
+insurance (b2c and b2b). I have in my pocket more than 100+ proctored & un-proctored certifications and courses. 
+The main goal of my life is self-development and helping others to improve. My auto-generated <a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/dzmdre/dzmdre/main/docs/index.html&v1">CV</a>
 
 <!--
 📊 &nbsp;**This week I spent my time on**
@@ -129,11 +131,12 @@ Credly account: <a href="https://www.credly.com/users/dzmitry-drepin/badges">Cre
 22. <a href="https://www.credly.com/badges/4c60aaed-802c-4050-8acb-8ed59602f77c/public_url">PMI: Fundamentals of Agile PM Apr 2024</a>
 23. <a href="https://www.credly.com/badges/b1ace126-cba7-416c-9f68-db71c44f9e5d/public_url">PMI: Fundamentals of Predictive PM Apr 2024</a>
 24. <a href="https://www.helmes.com">Helmes AS: Estimation training by Meelis Lang 2015</a>
-<!-- 
+<!--
 25. <a href="#">Scrum.org - PSM I - </a>
 26. <a href="#">Scrum.org - PSM II - </a>
 27. <a href="#">Scrum.org - PSPO I - </a>
 28. <a href="#">Scrum.org - PSPO II - </a>  
+25. <a href="#">PMI Candidate</a>
 -->
 <!--
 <a href="">Microsoft Project Management Professional Certificate</a>
@@ -250,9 +253,9 @@ Strategic Management - Capstone Project
 54. <a href="https://www.credly.com/badges/9976a927-c1df-4461-b5c2-4b1f30293c45/public_url">Google Cloud: Set Up a Google Cloud Network Skill Badge</a>
 55. <a href="https://www.credly.com/badges/26a79f26-7a71-45c1-939c-bf6b15f55b5a/public_url">Google Cloud: Develop Serverless Applications on Cloud Run Skill Badge</a>
 56. <a href="https://www.credly.com/badges/12f73fc2-19ae-4eb2-ac79-b157fab3ab2c/public_url">Google Cloud: Build a Secure Google Cloud Network</a>
+57. <a href="https://www.credly.com/badges/44a1e6a5-35d3-4f34-93ee-b48f4f693915">Google Professional Cloud Architect - Dec 2024 - Dec 2026</a>
 <!--
-57. <a href="#">Google Associate Cloud Engineer - </a>
-58. <a href="#">Google Professional Cloud Architect - </a>
+<a href="#">Google Associate Cloud Engineer - Dec 2024 - Dec 2027</a>
 -->
 <!-- AWS Serverless REST APIs for Java Developers. CI/CD included -->
 
@@ -364,9 +367,9 @@ MongoDB Essentials - Understand the Basics of MongoDB -->
 
 ### 📣 How about an quote before you go?
 
-> In wisdom gathered over time I have found that every experience is a form of exploration.
+> The invariable mark of wisdom is to see the miraculous in the common.
 >
-> <p>- Ansel Adams</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
