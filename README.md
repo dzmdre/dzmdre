@@ -253,10 +253,8 @@ Strategic Management - Capstone Project
 54. <a href="https://www.credly.com/badges/9976a927-c1df-4461-b5c2-4b1f30293c45/public_url">Google Cloud: Set Up a Google Cloud Network Skill Badge</a>
 55. <a href="https://www.credly.com/badges/26a79f26-7a71-45c1-939c-bf6b15f55b5a/public_url">Google Cloud: Develop Serverless Applications on Cloud Run Skill Badge</a>
 56. <a href="https://www.credly.com/badges/12f73fc2-19ae-4eb2-ac79-b157fab3ab2c/public_url">Google Cloud: Build a Secure Google Cloud Network</a>
-57. <a href="https://www.credly.com/badges/44a1e6a5-35d3-4f34-93ee-b48f4f693915">Google Professional Cloud Architect - Dec 2024 - Dec 2026</a>
-<!--
-<a href="#">Google Associate Cloud Engineer - Dec 2024 - Dec 2027</a>
--->
+57. <a href="https://www.credly.com/badges/44a1e6a5-35d3-4f34-93ee-b48f4f693915/public_url">Google Professional Cloud Architect - Dec 2024 - Dec 2026</a>
+58. <a href="https://www.credly.com/badges/ad2ddcea-c146-4cf0-b957-167fffbca8dd/public_url">Google Associate Cloud Engineer - Dec 2024 - Dec 2027</a>
 <!-- AWS Serverless REST APIs for Java Developers. CI/CD included -->
 
 ### Kubernetes:
@@ -367,9 +365,9 @@ MongoDB Essentials - Understand the Basics of MongoDB -->
 
 ### 📣 How about an quote before you go?
 
-> The invariable mark of wisdom is to see the miraculous in the common.
+> Wisdom is knowing what to do next; Skill is knowing how to do it, and Virtue is doing it.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- David Jordan</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
