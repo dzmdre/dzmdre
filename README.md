@@ -356,17 +356,15 @@ MongoDB Essentials - Understand the Basics of MongoDB -->
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> Your attitude, not your aptitude, will determine your altitude.
+> Study the past, if you would divine the future.
 >
-> <p>- Zig Ziglar</p>
+> <p>- Confucius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
