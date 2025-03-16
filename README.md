@@ -123,22 +123,21 @@ Credly account: <a href="https://www.credly.com/users/dzmitry-drepin/badges">Cre
 15. <a href="https://coursera.org/share/f84211074f757fa5c1159e5821fb3357">Google Project Management: Agile Project Management - Nov 2024</a>
 16. <a href="https://coursera.org/share/ce57a5c1a0fd899c8ab14c4fecfccd7e">Google Project Management: Capstone: Applying Project Management in the Real World - Nov 2024</a>
 17. <a href="https://coursera.org/share/baa25e209273267a209bd8d4acecc7a9">Google Project Management: Professional Certificate - Nov 2024</a>
-17. <a href="https://www.credly.com/badges/ba611541-803b-41d0-a87e-16677b5e507f/public_url">Google Project Management Credly badge - Nov 2024</a>
-18. <a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=1026418">SCRUM study: Scrum Fundamentals Certified (SFC) - Apr 2024</a>
-19. <a href="https://www.scrumstudy.com/certification/verify?type=SODFC&number=1010797">SCRUM study: Scrum for Operations & DevOps Fundamentals Certified (SODFC) - Apr 2024</a>
-20. <a href="https://www.credly.com/badges/97237e31-1abd-47fc-b885-396a1d6a97a8/public_url">Cisco: English for IT-2 B2 / GSE 59-75 - Apr 2024</a>
-21. <a href="https://www.credly.com/badges/b196924d-d989-4c5a-abff-05c855dffea9/public_url">PMI: Generative AI for PMs Apr 2024</a>
-22. <a href="https://www.credly.com/badges/4c60aaed-802c-4050-8acb-8ed59602f77c/public_url">PMI: Fundamentals of Agile PM Apr 2024</a>
-23. <a href="https://www.credly.com/badges/b1ace126-cba7-416c-9f68-db71c44f9e5d/public_url">PMI: Fundamentals of Predictive PM Apr 2024</a>
-24. <a href="https://www.helmes.com">Helmes AS: Estimation training by Meelis Lang 2015</a>
+18. <a href="https://www.credly.com/badges/ba611541-803b-41d0-a87e-16677b5e507f/public_url">Google Project Management Credly badge - Nov 2024</a>
+19. <a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=1026418">SCRUM study: Scrum Fundamentals Certified (SFC) - Apr 2024</a>
+20. <a href="https://www.scrumstudy.com/certification/verify?type=SODFC&number=1010797">SCRUM study: Scrum for Operations & DevOps Fundamentals Certified (SODFC) - Apr 2024</a>
+21. <a href="https://www.credly.com/badges/97237e31-1abd-47fc-b885-396a1d6a97a8/public_url">Cisco: English for IT-2 B2 / GSE 59-75 - Apr 2024</a>
+22. <a href="https://www.credly.com/badges/b196924d-d989-4c5a-abff-05c855dffea9/public_url">PMI: Generative AI for PMs Apr 2024</a>
+23. <a href="https://www.credly.com/badges/4c60aaed-802c-4050-8acb-8ed59602f77c/public_url">PMI: Fundamentals of Agile PM Apr 2024</a>
+24. <a href="https://www.credly.com/badges/b1ace126-cba7-416c-9f68-db71c44f9e5d/public_url">PMI: Fundamentals of Predictive PM Apr 2024</a>
+25. <a href="https://www.helmes.com">Helmes AS: Estimation training by Meelis Lang 2015</a>
 <!--
 25. <a href="#">Scrum.org - PSM I - </a>
 26. <a href="#">Scrum.org - PSM II - </a>
 27. <a href="#">Scrum.org - PSPO I - </a>
 28. <a href="#">Scrum.org - PSPO II - </a>  
 25. <a href="#">PMI Candidate</a>
--->
-<!--
+
 <a href="">Microsoft Project Management Professional Certificate</a>
 <a href="">Project Management Fundamentals</a>
 <a href="">Team Building and Leadership in Project Management</a>
@@ -365,9 +364,9 @@ MongoDB Essentials - Understand the Basics of MongoDB -->
 
 ### 📣 How about an quote before you go?
 
-> Wisdom is knowing what to do next; Skill is knowing how to do it, and Virtue is doing it.
+> Wisdom consists of the anticipation of consequences.
 >
-> <p>- David Jordan</p>
+> <p>- Norman Cousins</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
