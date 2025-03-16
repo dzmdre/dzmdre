@@ -24,6 +24,11 @@ The main goal of my life is self-development and helping others to improve. My a
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=dzmdre&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 ![General stats](https://github-readme-stats.vercel.app/api?username=dzmdre&show_icons=true&theme=transparent)
 -->
+### Udemy Courses
+<a href="https://www.udemy.com/user/dzmitry-drepin-2/">Udemy Instructor Profile</a>  
+Courses with coupons:
+1. <a href="https://www.udemy.com/course/google-pcd/?referralCode=F2E2DDE424ABB477F533&couponCode=4CEB7A364620477904CB">Google Cloud Professional Cloud Developer - 2025 (GCP)</a>
+2. <a href="https://www.udemy.com/course/google-cloud-professional-architect-2025-gcp/?referralCode=F2E2DDE424ABB477F533&couponCode=EBD004946C7352360D8E">Google Cloud Professional Architect - 2025 (GCP)</a>
 
 ### My Skill Set
 
@@ -190,6 +195,8 @@ Strategic Management - Capstone Project
 16. <a href="https://dzmdre.github.io/dzmdre/assets/certificate-of-completion-for-product-roadmapping-micro-certification.pdf?trk=public_profile_see-credential">Product School: Product Road mapping (PRC) - Jun 2024</a>
 17. <a href="https://dzmdre.github.io/dzmdre/assets/certificate-of-completion-for-product-strategy-microcertification.pdf?trk=public_profile_see-credential">Product School: Product Strategy (PSC) - Jun 2024</a>
 18. <a href="https://www.credly.com/badges/2ac2a879-9bfd-4f56-9aa7-e68c15294f09/public_url">Miro: Client Collaboration - Jun 2024</a>
+19. <a href="#">Pendo: Radical Product Thinking: Vision Setting Course - 2025</a>
+20. <a href="#">Pendo: Product Discovery Certification Course - 2025</a>
 <!--
 11. <a href="./assets/#.pdf">Product School: Product Launches (PRLC) - Jun 2024</a>
 12. <a href="./assets/#.pdf">Product School: Artificial Intelligence (AIC) - Jun 2024</a>
@@ -356,17 +363,15 @@ MongoDB Essentials - Understand the Basics of MongoDB -->
 ### 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### 📣 How about an quote before you go?
 
-> Wisdom consists of the anticipation of consequences.
+> To keep your secret is wisdom; but to expect others to keep it is folly.
 >
-> <p>- Norman Cousins</p>
+> <p>- Samuel Johnson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
