@@ -363,24 +363,32 @@ MongoDB Essentials - Understand the Basics of MongoDB -->
 
 <br>
 
-### 📝 Latest Blog Posts
-<br>
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+[//]: # (### 📝 Latest Blog Posts)
 
-<br>
+[//]: # (<br>)
 
-### 📣 How about an quote before you go?
+[//]: # (<!-- BLOG-POST-LIST:START -->)
 
-> {quote}
->
-> <p>{quote_author}</p>
+[//]: # (<!-- BLOG-POST-LIST:END -->)
 
-_Quote requested from [The Quote API](https://api.quotable.io/random)_
+[//]: # (<br>)
 
-Check back at the top of the hour for a new quote!
+[//]: # (### 📣 How about an quote before you go?)
 
-<br>
+[//]: # ()
+[//]: # (> {quote})
+
+[//]: # (>)
+
+[//]: # (> <p>{quote_author}</p>)
+
+[//]: # ()
+[//]: # (_Quote requested from [The Quote API]&#40;https://api.quotable.io/random&#41;_)
+
+[//]: # ()
+[//]: # (Check back at the top of the hour for a new quote!)
+
+[//]: # (<br>)
 
 > ### More details on how I made this README?
 >
