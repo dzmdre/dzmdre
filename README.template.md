@@ -136,6 +136,8 @@ Credly account: <a href="https://www.credly.com/users/dzmitry-drepin/badges">Cre
 23. <a href="https://www.credly.com/badges/4c60aaed-802c-4050-8acb-8ed59602f77c/public_url">PMI: Fundamentals of Agile PM Apr 2024</a>
 24. <a href="https://www.credly.com/badges/b1ace126-cba7-416c-9f68-db71c44f9e5d/public_url">PMI: Fundamentals of Predictive PM Apr 2024</a>
 25. <a href="https://www.helmes.com">Helmes AS: Estimation training by Meelis Lang 2015</a>
+26. <a href="https://dzmdre.github.io/dzmdre/assets/CPMAI.pdf?trk=public_profile_see-credential">PMI: Introduction to Cognitive Project Management in AI (CPMAI)™ - 2025</a>
+27. <a href="#">Workflow Specialist Certificate - 2025</a>
 <!--
 25. <a href="#">Scrum.org - PSM I - </a>
 26. <a href="#">Scrum.org - PSM II - </a>
@@ -261,6 +263,7 @@ Strategic Management - Capstone Project
 56. <a href="https://www.credly.com/badges/12f73fc2-19ae-4eb2-ac79-b157fab3ab2c/public_url">Google Cloud: Build a Secure Google Cloud Network</a>
 57. <a href="https://www.credly.com/badges/44a1e6a5-35d3-4f34-93ee-b48f4f693915/public_url">Google Professional Cloud Architect - Dec 2024 - Dec 2026</a>
 58. <a href="https://www.credly.com/badges/ad2ddcea-c146-4cf0-b957-167fffbca8dd/public_url">Google Associate Cloud Engineer - Dec 2024 - Dec 2027</a>
+58. <a href="https://www.credly.com/badges/addf99b4-6321-482a-bdd5-7bd31cb33b67/public_url">Professional Cloud Developer Certification - Jun 2025 - Jun 2027</a>
 <!-- AWS Serverless REST APIs for Java Developers. CI/CD included -->
 
 ### Kubernetes:
