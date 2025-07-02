@@ -263,7 +263,7 @@ Strategic Management - Capstone Project
 56. <a href="https://www.credly.com/badges/12f73fc2-19ae-4eb2-ac79-b157fab3ab2c/public_url">Google Cloud: Build a Secure Google Cloud Network</a>
 57. <a href="https://www.credly.com/badges/44a1e6a5-35d3-4f34-93ee-b48f4f693915/public_url">Google Professional Cloud Architect - Dec 2024 - Dec 2026</a>
 58. <a href="https://www.credly.com/badges/ad2ddcea-c146-4cf0-b957-167fffbca8dd/public_url">Google Associate Cloud Engineer - Dec 2024 - Dec 2027</a>
-58. <a href="https://www.credly.com/badges/addf99b4-6321-482a-bdd5-7bd31cb33b67/public_url">Professional Cloud Developer Certification - Jun 2025 - Jun 2027</a>
+58. <a href="https://www.credly.com/badges/addf99b4-6321-482a-bdd5-7bd31cb33b67/public_url">Google Professional Cloud Developer Certification - Jun 2025 - Jun 2027</a>
 <!-- AWS Serverless REST APIs for Java Developers. CI/CD included -->
 
 ### Kubernetes:
