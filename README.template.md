@@ -363,33 +363,6 @@ MongoDB Essentials - Understand the Basics of MongoDB -->
 
 <br>
 
-[//]: # (### 📝 Latest Blog Posts)
-
-[//]: # (<br>)
-
-[//]: # (<!-- BLOG-POST-LIST:START -->)
-
-[//]: # (<!-- BLOG-POST-LIST:END -->)
-
-[//]: # (<br>)
-
-[//]: # (### 📣 How about an quote before you go?)
-
-[//]: # ()
-[//]: # (> {quote})
-
-[//]: # (>)
-
-[//]: # (> <p>{quote_author}</p>)
-
-[//]: # ()
-[//]: # (_Quote requested from [The Quote API]&#40;https://api.quotable.io/random&#41;_)
-
-[//]: # ()
-[//]: # (Check back at the top of the hour for a new quote!)
-
-[//]: # (<br>)
-
 > ### More details on how I made this README?
 >
 > Check out my [tutorial](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)!
@@ -434,4 +407,32 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+[//]: # (### 📝 Latest Blog Posts)
+
+[//]: # (<br>)
+
+[//]: # (<!-- BLOG-POST-LIST:START -->)
+
+[//]: # (<!-- BLOG-POST-LIST:END -->)
+
+[//]: # (<br>)
+
+[//]: # (### 📣 How about an quote before you go?)
+
+[//]: # ()
+[//]: # (> {quote})
+
+[//]: # (>)
+
+[//]: # (> <p>{quote_author}</p>)
+
+[//]: # ()
+[//]: # (_Quote requested from [The Quote API]&#40;https://api.quotable.io/random&#41;_)
+
+[//]: # ()
+[//]: # (Check back at the top of the hour for a new quote!)
+
+[//]: # (<br>)
 -->
