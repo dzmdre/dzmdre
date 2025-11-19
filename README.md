@@ -365,9 +365,13 @@ MongoDB Essentials - Understand the Basics of MongoDB -->
 
 > ### More details on how I made this README?
 >
-> Check out my [tutorial](https://dzmdre.blogspot.com/2023/09/github-actions-and-cool-readme-on-your.html)!
+> Check out my [tutorial](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)!
 
 <br>
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### Connect with me
 <div align="center">
