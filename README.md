@@ -371,8 +371,6 @@ MongoDB Essentials - Understand the Basics of MongoDB -->
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Spring AI: An Engineer’s Answer to the HR Black Hole](https://dev.to/dmitryd/an-engineers-answer-to-the-hr-black-hole-4kkg)
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me
