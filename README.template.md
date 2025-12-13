@@ -308,9 +308,10 @@ Strategic Management - Capstone Project
 3. <a href="https://testprovider.com/ru/search-certificate/tp26631033">Test provider: React - March 2024</a>
 <!--React redux -->
 
-### ELK
+### ELK & Microstream
 1. <a href="https://www.udemy.com/certificate/UC-72ab0226-7227-4c1a-afc6-63fd3580df0c">TetraNoodle Team: ElasticSearch, LogStash, Kibana ELK #1 - Learn ElasticSearch - July 2021</a>
 2. <a href="https://www.udemy.com/certificate/UC-32b530cc-a934-4ade-9c38-7fceab12e6f5">TetraNoodle Team: ElasticSearch, LogStash, Kibana ELK #2 - Learn LogStash - July 2021</a>
+3. <a href="./assets/microstream.pdf">EclipseStore Advanced 2 - October 2024</a>
 
 ### Devops & CI/CD
 1. <a href="https://www.udemy.com/certificate/UC-30c312c5-51b0-4000-b936-3d3605075d4c">Level Up: Master Jenkins CI For DevOps and Developers - July 2021</a>
