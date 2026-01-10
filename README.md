@@ -372,10 +372,6 @@ MongoDB Essentials - Understand the Basics of MongoDB -->
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Spring AI: An Engineer’s Answer to the HR Black Hole](https://dzmdre.medium.com/an-engineers-answer-to-the-hr-black-hole-536edec815a2?source=rss-93ae52477b22------2)
-- [Spring AI: An Engineer’s Answer to the HR Black Hole](https://dev.to/dmitryd/an-engineers-answer-to-the-hr-black-hole-4kkg)
-- [Cool readme on your github profile page with github actions.](https://dzmdre.medium.com/cool-readme-on-your-github-profile-page-with-github-actions-1e3b8ba9bba1?source=rss-93ae52477b22------2)
-- [Cool readme on your github profile page with github actions.](https://dev.to/dmitryd/cool-readme-on-your-github-profile-page-with-github-actions-1lp)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me
